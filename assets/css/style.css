@@ -54,6 +54,12 @@ nav {
     padding: 10px 20px 10px 20px; 
 }
 
+#nav-menu a:hover {
+    background-color: yellow;
+    color: black;
+}
+
+
 
 
 
