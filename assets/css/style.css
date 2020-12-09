@@ -315,6 +315,20 @@ footer {
     height: 60%;
 }
 
+/*-------------------------------------------Page 4-section 1-form*/
+
+#signup-info {
+    background-color: #B22F21;
+}
+
+.form-section {
+    width:60%;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    padding: 10px;
+}
+
+
 
 /*-------------------------------------------media links
 ------------------------------------------------------*/
@@ -395,7 +409,6 @@ footer {
     width: 80%;
     height: 80%;
     }
-
 }
 
 
