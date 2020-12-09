@@ -59,6 +59,16 @@ nav {
     color: black;
 }
 
+/*-------------------------------------------footer*/
+
+footer {
+    margin-top: 75px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(15,15,15)
+}
+
 
 
 /*-------------------------------------------media links*/
@@ -97,9 +107,9 @@ nav {
     #navbar-div i {
         display: inline;
     }
-
-    
 }
+
+
 
 
 
