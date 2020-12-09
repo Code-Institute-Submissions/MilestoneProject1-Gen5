@@ -69,6 +69,24 @@ footer {
     background-color: rgb(15,15,15)
 }
 
+#footer-message {
+    float: left;
+    margin: 35px;
+    width: 40%;
+}
+
+#footer-message i {
+    color: yellow;
+    font-size: 120%;
+}
+
+#footer-message i:hover {
+    color: #F03620;
+    font-size: 120%;
+}
+
+
+
 
 
 /*-------------------------------------------media links*/
