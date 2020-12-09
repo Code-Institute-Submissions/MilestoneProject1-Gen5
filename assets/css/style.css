@@ -93,6 +93,14 @@ hr {
 
 /*-------------------------------------------Page 1-section 2-table*/
 
+.table-message {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(240, 54, 32, .7);
+    width: 90%;
+    margin: 0 auto;
+}
+
 .table-div {
     padding-top: 50px;
 }
