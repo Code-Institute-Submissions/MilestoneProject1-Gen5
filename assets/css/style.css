@@ -217,10 +217,30 @@ footer {
     border-top: 2px solid yellow;
 }
 
+/*-------------------------------------------Page 2/3-section 2-carousel*/
 
+.carousel{
+    background: rgba(240, 54, 32, .7);
+    margin-top: 20px;
+    border-right: 2px solid yellow;
+}
 
+.carousel-item{
+    min-height: 280px;
+}
 
+.carousel-item img {
+    width: 700px;
+    padding: 20px 0px 20px 100px;
+}
 
+#ps-message h2 {
+    width: 100%;
+}
+
+#ps-message p {
+    width: 100%;
+}
 
 
 
