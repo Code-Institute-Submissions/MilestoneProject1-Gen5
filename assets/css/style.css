@@ -44,5 +44,16 @@ nav {
     line-height: 150px;
 }
 
+#nav-menu li {
+    margin-right: 15px;
+}
+
+#nav-menu a {
+    text-decoration: none;
+    color: yellow;
+    padding: 10px 20px 10px 20px; 
+}
+
+
 
 
