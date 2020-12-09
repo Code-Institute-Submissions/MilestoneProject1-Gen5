@@ -328,6 +328,19 @@ footer {
     padding: 10px;
 }
 
+label {
+    width: 100%;
+}
+
+input[type=text], input[type=email] {
+    width: 100%;
+}
+
+#hr-comp {
+    border-top: 2px solid yellow;
+    margin: 25px 5% 25px 5%;
+}
+
 
 
 /*-------------------------------------------media links
