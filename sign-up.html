@@ -38,7 +38,42 @@
         </div>
     </header>
     <section>
-        <p>Placeholder text - sign up page</p>
+        <div id="signup-info">
+            <h2>Sign up tile</h2>
+            <p>Sign up info</p>
+        </div>
+        <div class="form-section">
+            <form class="signup-form" method="POST" action="#">
+                <label for="fname">First Name</label>
+                <input class="text-input" type="text" id="first-name" name="first_name" placeholder="Your first name..." required/>
+                <label for="lname">Last Name</label>
+                <input class="text-input" type="text" id="last-name" name="last_name" placeholder="Your last name..." required/>
+                <label for="email">Email Address</label>
+                <input class="text-input" id="email" type="email" name="email_address" placeholder="Your email..." required/>
+                <hr id="hr-comp">
+                <div id="comp-section">
+                    <div id="comp-info">
+                        <h4>Competition!</h4>
+                        <p>competition information</p>
+                    </div>
+                    <div id="comp-input">
+                        <div class="comp-input-inner">
+                            <input id="road" type="radio" name="chosen_console" value="ps5" required/>
+                            <label for="road">Playstation 5</label>
+                        </div>
+                        <div class="comp-input-inner">
+                            <input id="trail" type="radio" name="chosen_console" value="xbox"/>
+                            <label for="trail">Xbox X Series</label>
+                        </div>
+                        <div class="comp-input-inner">
+                            <textarea id="reason" name="reason" placeholder="Tell us why..." required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <input class="join-button" type="submit" value="Sign Me Up!"/>
+          </form> 
+        </div>
+
     </section>
     <section>
     
