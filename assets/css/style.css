@@ -84,6 +84,14 @@ nav .active {
     border-top: 2px solid yellow;
 }
 
+/*-------------------------------------------Page 1-hr*/
+
+hr {
+    border-top: 2px solid yellow;
+    margin: 75px 5% 75px 5%;
+}
+
+
 /*-------------------------------------------Page 1-footer*/
 
 footer {
