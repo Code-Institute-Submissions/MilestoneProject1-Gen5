@@ -368,6 +368,21 @@ input[type=text], input[type=email] {
     width: 100%;
 }
 
+.join-button {
+    width: 90%;
+    background-color: #B22F21;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px 0px 10px 0px;
+    color: white;
+}
+
+.join-button:hover {
+    background-color: white;
+    color: #B22F21;
+}
+
+
 
 /*-------------------------------------------media links
 ------------------------------------------------------*/
