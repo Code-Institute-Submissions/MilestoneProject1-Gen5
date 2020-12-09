@@ -13,6 +13,14 @@ body {
 }
 
 /*-------------------------------------------Page 1-header*/
+
+#page-header {
+    display: block;
+    background-color: #B22F21;
+    border: 2px solid #B22F21;
+    padding: 5px;
+}
+
 header {
     background-color: rgb(15,15,15);
     border-bottom: 2px solid yellow;
