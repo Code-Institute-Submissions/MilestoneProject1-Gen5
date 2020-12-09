@@ -184,6 +184,8 @@ footer {
     border-radius: 50%;
 }
 
+/*-------------------------------------------Page 2/3-section 1-basic info*/
+
 
 
 
@@ -204,6 +206,12 @@ footer {
 /*-------------------------------------------Page 1-header*/
     #navbar-div i {
         display: none;
+    }
+
+    /*-------------------------------------------Page 1-section 2-table*/
+
+    .table-div {
+        padding-top: 20px;
     }
 }
 
@@ -239,7 +247,7 @@ footer {
 
     #hero-image-info {
         font-size: 30px;
-    }    
+    }
 
 /*-------------------------------------------Page 1-footer*/
 
