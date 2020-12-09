@@ -91,6 +91,16 @@ hr {
     margin: 75px 5% 75px 5%;
 }
 
+/*-------------------------------------------Page 1-section 2-table*/
+
+.table {
+    padding-top: 50px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;   
+}
 
 /*-------------------------------------------Page 1-footer*/
 
