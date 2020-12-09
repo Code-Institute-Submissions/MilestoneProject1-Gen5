@@ -388,6 +388,14 @@ footer {
         margin: 0px 5px 0px 5px;
         padding: 3%; 
     }
+
+/*-------------------------------------------Page 2/3-section 4-video*/
+
+    .video-container iframe {
+    width: 80%;
+    height: 80%;
+    }
+
 }
 
 
