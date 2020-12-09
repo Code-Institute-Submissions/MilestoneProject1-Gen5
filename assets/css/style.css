@@ -193,8 +193,15 @@ footer {
 /*-------------------------------------------media links
 ------------------------------------------------------*/
 
+@media screen and (min-width: 950px) {
+/*-------------------------------------------Page 1-section 2-table*/
+    .table-message {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 950px) {
-/*-------------------------------------------header*/
+/*-------------------------------------------Page 1-header*/
     #navbar-div i {
         display: none;
     }
