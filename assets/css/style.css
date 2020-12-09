@@ -59,6 +59,11 @@ nav {
     color: black;
 }
 
+nav .active {
+    border-bottom: 2px solid yellow;
+}
+
+
 /*-------------------------------------------footer*/
 
 footer {
@@ -154,6 +159,8 @@ footer {
     #navbar-div i {
         display: inline;
     }
+
+    
 
 /*-------------------------------------------footer*/
 
