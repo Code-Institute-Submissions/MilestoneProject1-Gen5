@@ -117,6 +117,10 @@ td, th {
     padding: 15px;
 }
 
+th {
+    text-align: center;
+}
+
 th:nth-child(2) {
     background-color: rgba(240, 54, 32, .7);
     color: white;
