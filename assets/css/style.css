@@ -120,15 +120,15 @@ footer {
 
 /*-------------------------------------------media links*/
 
-/*-------------------------------------------header*/
-
 @media screen and (max-width: 950px) {
+/*-------------------------------------------header*/
     #navbar-div i {
         display: none;
     }
 }
 
 @media screen and (max-width: 720px) {
+/*-------------------------------------------header*/
     nav {
         display: block;
     }
@@ -153,6 +153,22 @@ footer {
 
     #navbar-div i {
         display: inline;
+    }
+
+/*-------------------------------------------footer*/
+
+    #footer-message {
+        display: none;
+    }
+
+    #footer-links {
+        display: block;
+        width: 100%;
+    }
+
+    #footer-links i {
+        margin: 0px 5px 0px 5px;
+        padding: 3%; 
     }
 }
 
