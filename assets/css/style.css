@@ -33,3 +33,16 @@ nav {
     display: flex;
     justify-content: flex-end;
 }
+
+#nav-menu {
+    font-size: 90%;
+    list-style-type: none;
+    display: flex;
+}
+
+#logo, #nav-menu {
+    line-height: 150px;
+}
+
+
+
