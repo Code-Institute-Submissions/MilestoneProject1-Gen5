@@ -45,7 +45,7 @@ nav {
 }
 
 #nav-menu li {
-    margin-right: 15px;
+    margin-right: 10px;
 }
 
 #nav-menu a {
@@ -60,6 +60,44 @@ nav {
 }
 
 
+
+/*-------------------------------------------media links*/
+
+/*-------------------------------------------header*/
+
+@media screen and (max-width: 950px) {
+    #navbar-div i {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    nav {
+        display: block;
+    }
+
+    #logo {
+        text-align: center;
+        width: 100%;
+    }
+
+    #logo {
+        line-height: 100px;
+    }
+
+    #nav-menu {
+        display: block;
+        line-height: 50px;
+    }
+
+    #nav-menu li {
+        text-align: center;
+    }
+
+    #navbar-div i {
+        display: inline;
+    }
+}
 
 
 
