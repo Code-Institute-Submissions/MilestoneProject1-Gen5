@@ -12,3 +12,14 @@ body {
     background-color: #201F24;
 }
 
+/*-------------------------------------------header*/
+header {
+    background-color: rgb(15,15,15);
+    border-bottom: 2px solid yellow;
+}
+
+h2 {
+    font-family: Rokkitt, sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
