@@ -85,6 +85,19 @@ footer {
     font-size: 120%;
 }
 
+#footer-links {
+    width: 60%;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links li {
+    display: inline;
+}
+
+
 
 
 
