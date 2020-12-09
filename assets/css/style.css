@@ -463,6 +463,25 @@ input[type=text], input[type=email] {
     width: 80%;
     height: 80%;
     }
+
+/*-------------------------------------------Page 4-section 1-video*/
+
+    .form-section {
+    width:90%;
+}
+
+#comp-section {
+    display: block;
+}
+
+#comp-info {
+    width: 100%;
+}
+
+#comp-input {
+    width: 100%;
+}
+
 }
 
 
