@@ -1,2 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Rokkitt:wght@200;400;600;800&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: yellow;
+    background-color: #201F24;
+}
+
