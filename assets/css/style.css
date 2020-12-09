@@ -186,6 +186,15 @@ footer {
 
 /*-------------------------------------------Page 2/3-section 1-basic info*/
 
+.console-image {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    margin: 35px;
+    border: 10px solid rgba(240, 54, 32, .7);
+    border-radius: 20px;
+    float: left;
+}
 
 
 
