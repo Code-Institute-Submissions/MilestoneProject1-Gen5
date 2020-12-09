@@ -106,6 +106,12 @@ footer {
     border-radius: 50%;
 }
 
+.social-links i:hover {
+    color: #F03620;
+    border: 2px solid yellow;
+    border-radius: 50%;
+}
+
 
 
 
