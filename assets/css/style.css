@@ -12,7 +12,7 @@ body {
     background-color: #201F24;
 }
 
-/*-------------------------------------------header*/
+/*-------------------------------------------Page 1-header*/
 header {
     background-color: rgb(15,15,15);
     border-bottom: 2px solid yellow;
@@ -63,8 +63,16 @@ nav .active {
     border-bottom: 2px solid yellow;
 }
 
+/*-------------------------------------------Page 1-section 1-hero image*/
 
-/*-------------------------------------------footer*/
+.hero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*-------------------------------------------Page 1-footer*/
 
 footer {
     margin-top: 75px;
