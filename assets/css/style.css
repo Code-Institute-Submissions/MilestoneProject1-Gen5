@@ -97,6 +97,16 @@ footer {
     display: inline;
 }
 
+.social-links i {
+    font-size: 120%;
+    padding: 3%;
+    margin-right: 20px;
+    color: yellow;
+    border: 2px solid transparent;
+    border-radius: 50%;
+}
+
+
 
 
 
