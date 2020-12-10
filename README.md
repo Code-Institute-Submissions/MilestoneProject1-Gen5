@@ -26,6 +26,18 @@ ___
 <a name="tech"></a>
 ### Technologies
 
+Technologies used to create the site:
+
+* HTML 
+  * The project uses **HTML 5** to create the basic layout and site structure.
+* CSS
+  * The project uses **CSS 3** to style the html to be aesthetic and responsive.
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) 
+  * The project uses **Bootstrap Version 4.5.2** to simplify the creation of site features, for example carousels and accordions. 
+* [Font Awesome](https://fontawesome.com/)
+  * The project uses **Font Awesome Version 5.15.1 ** to add icons that aid aesthetics or provide social media links.
+* [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIovzYmYzE7QIVhOvtCh0Nrwz5EAAYASAAEgKhdvD_BwE)
+  * The project used **Balsamiq** 
 ___
 
 <a name="launch"></a>
