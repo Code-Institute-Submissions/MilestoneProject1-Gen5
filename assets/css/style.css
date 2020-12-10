@@ -42,7 +42,7 @@ h2 {
 
 nav {
     display: flex;
-/* Code taken from https://www.w3schools.com/cssref/css3_pr_justify-content.asp */
+/* Credit: Code taken from https://www.w3schools.com/cssref/css3_pr_justify-content.asp */
     justify-content: flex-end;
 }
 
@@ -81,7 +81,7 @@ nav .active {
     display: block;
     margin-left: auto;
     margin-right: auto;
-/* Code taken from https://www.w3schools.com/css/css3_images.asp */
+/* credit: Code taken from https://www.w3schools.com/css/css3_images.asp */
     max-width: 100%;
     height: auto;
 }
@@ -101,7 +101,7 @@ nav .active {
 
 hr {
     margin: 75px 5% 75px 5%;
-/* Code taken from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr */
+/* Credit: Code taken from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr */
     border-top: 2px solid yellow;
 }
 
@@ -112,7 +112,7 @@ hr {
     padding: 10px;
     background-color: rgba(240, 54, 32, .7);
     width: 90%;
-    /* Code taken from https://www.w3schools.com/howto/howto_css_table_center.asp, adapted for streamlining */
+/* Credit: Code taken from https://www.w3schools.com/howto/howto_css_table_center.asp, adapted for streamlining */
     margin: 0 auto;
 }
 
@@ -124,6 +124,7 @@ table {
 
 table, th, td {
     border: 2px solid yellow;
+/*Credit: Code taken from https://www.w3schools.com/css/css_table.asp */
     border-collapse: collapse;
     color: white;
 }
@@ -135,7 +136,7 @@ td, th {
 th {
     text-align: center;
 }
-
+/*Credit:  Code taken from http://www.corelangs.com/css/table/tablecolor.html */
 th:nth-child(2) {
     background-color: rgba(240, 54, 32, .7);
     color: white;
@@ -153,7 +154,7 @@ footer {
     margin-top: 75px;
     height: 150px;
     background-color: rgb(15,15,15);
-/* Code taken from https://stackoverflow.com/questions/5661520/centering-2-divs-inside-another-vertically */
+/* Credit: Code taken from https://stackoverflow.com/questions/5661520/centering-2-divs-inside-another-vertically */
     display: flex;
     align-items: center;
 
@@ -205,13 +206,14 @@ footer {
 /*-------------------------------------------Page 2/3-section 1-basic info*/
 
 .console-image {
-    height: 400px;
-    width: 400px;
     object-fit: cover;
     margin: 35px;
     border: 10px solid rgba(240, 54, 32, .7);
     border-radius: 20px;
     float: left;
+/*Credit: Code taken from https://reactgo.com/css-crop-images/ */
+    height: 400px;
+    width: 400px;
 }
 
 .past-image {
@@ -314,6 +316,7 @@ footer {
 
 /*-------------------------------------------Page 2/3-section 4-video*/
 
+/*Credit: Code taken from https://www.youtube.com/watch?v=9YffrCViTVk, description. Needs tutor guidens to fix bug*/
 .video-container {
     position: relative;
     width: 100%;

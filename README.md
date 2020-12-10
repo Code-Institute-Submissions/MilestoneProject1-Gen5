@@ -237,15 +237,15 @@ ___
 
 * Convert colors from rgba to hex on [W3Schools.com](https://www.w3schools.com/colors/colors_hexadecimal.asp?color=00bfff)
 
-*
+* Code for border collapse of table styling taken from [W3Schools.com](https://www.w3schools.com/css/css_table.asp), remainder of styling my own.
 
-*
+* Coloring nth column in table taken from [corelangs.com](http://www.corelangs.com/css/table/tablecolor.html)
 
-*
+* Code for cropping a rectagular image into a square taken from [reactgo.com](https://reactgo.com/css-crop-images/), styling to suit needs.
 
-*
+* Video centering and responsiveness taken from [youtube.com](https://www.youtube.com/watch?v=9YffrCViTVk), modified for needs, personalised styling.
 
-*
+* Template code for carousel taken from [bootstrap.com](https://getbootstrap.com/docs/4.0/components/carousel/), heavily modified and styled for needs
 
 *
 
