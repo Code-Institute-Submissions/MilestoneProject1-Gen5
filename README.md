@@ -142,9 +142,10 @@ ___
 
 #### Sign Up Page
 ##### Active
+* Responsive form for newletter sign up and competition, vertical alignment on smaller screens.
 
 ##### To Do
-
+* Progress bar indocating current popularity of consoles.
 ___
 
 <a name="test"></a>
