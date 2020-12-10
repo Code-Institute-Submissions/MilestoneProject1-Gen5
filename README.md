@@ -255,8 +255,14 @@ Xbox Series X [trailer](https://www.youtube.com/watch?v=DIMAujZpry0)
 
 ##### Text
 
-table contents collected from [psu.com](https://www.psu.com/forums/threads/ps5-vs-xbox-series-x-updated-specs-comparison.340035/)
+Table contents collected from [psu.com](https://www.psu.com/forums/threads/ps5-vs-xbox-series-x-updated-specs-comparison.340035/)
 
 #### Ackowledgements
+
+Inspired by Code Institute HTML/CSS - [Love Running Mini Project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/course/)
+General reference / tutorial assisstance. Login required.
+
+Inspired by [W3Schools.com](https://www.w3schools.com/html/html_intro.asp)
+General reference / tutorial assistance.
 ___
 
