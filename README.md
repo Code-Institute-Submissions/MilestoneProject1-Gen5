@@ -8,10 +8,10 @@ Welcome to Gen5, an informative website to compare the latest generation of gami
 
 1. [Introduction](#intro) 
 2. [Technologies](#tech) 
-3. [Launch](#launch)
-4. [UX](#ux)
-5. [Features](#feat) active and to do
-6. [Testing](#test)
+3. [UX](#ux)
+4. [Features](#feat) active and to do
+5. [Testing](#test)
+6. [Launch](#launch
 7. [Deployment](#deploy)
 8. [Credits](#credit)
 
@@ -38,11 +38,6 @@ Technologies used to create the site:
   * The project uses **Font Awesome Version 5.15.1** to add icons that aid aesthetics or provide social media links.
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIovzYmYzE7QIVhOvtCh0Nrwz5EAAYASAAEgKhdvD_BwE)
   * The project used **Balsamiq** to create wireframes during the planning phase.
-___
-
-<a name="launch"></a>
-### Launch
-
 ___
 
 <a name="ux"></a>
@@ -108,6 +103,46 @@ ___
 <a name="feat"></a>
 ### Features
 
+#### Header
+
+##### Active
+
+* Logo that links to index Page
+
+* Interactive navbar to all site pages, with hover states.
+
+* Responsive navbar that: 
+  * removes icons on small screens 
+  * alters layout to vertical on smaller screens 
+
+##### To Do
+
+* Dropdown menu for the console page buttons, linking to specific sections of the page.
+
+#### Footer
+
+##### Active
+
+* Link to competition page (gift icon) with hover states.
+
+* Responsive message that is hidden on smaller screens. 
+
+* Links to social media that loads each website on a new tab, with hover states.
+
+#### Index Page
+
+##### Active
+
+##### To Do
+
+#### PS5/Xbox Page
+
+##### Active
+
+##### To Do
+
+#### Sign Up Page
+
 ##### Active
 
 ##### To Do
@@ -116,9 +151,9 @@ ___
 <a name="test"></a>
 ### Testing
 
-#### Bugs Discovered
+### Bugs Discovered
 
-### Solved Bugs
+#### Solved Bugs
 
 1.
 
@@ -126,13 +161,18 @@ ___
 
 3.
 
-### Remaining Bugs
+#### Remaining Bugs
 
-#### Manual Testing
+### Manual Testing
 
-### Expected, testing, result, fix
+Expected, testing, result, fix
 
-#### User Stories
+### User Story Tests
+___
+
+<a name="launch"></a>
+### Launch
+
 ___
 
 <a name="deploy"></a>
