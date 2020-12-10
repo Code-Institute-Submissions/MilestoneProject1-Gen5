@@ -217,9 +217,25 @@ ___
 
 #### Media
 ##### Images
+All images were sourced from bing images, under creative commons licences.
 
-![Image of PS5 and Xbox Series X](assets/images/combo.jpg)
-Image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
+Hero image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
+
+Hero image of the [PS5 only](https://www.diariodeunjugon.com/wp-content/uploads/2020/06/asi-es-playstation-5-sony-1.jpg)
+
+Gallery image of the [PS4](https://res-5.cloudinary.com/gadgetby/image/upload/c_pad,dpr_1.0,f_auto,h_1200,q_80,w_1200/media/catalog/product/g/a/gadgetbyps4slim-1_1.jpg)
+
+Gallery image of the [PS3](https://www.lukiegames.com/assets/images/PS3/ps3_sys_20gb_bw_p_z52mxa.jpg)
+
+Gallery image of the [PS2](https://www.techhog.com/wp-content/uploads/2020/05/How-to-Play-PS2-Games-on-PS4.jpg)
+
+Gallery image of the [PS1](https://retro.poromagia.com/media/images/products/2017/02/Playstation-1-Console-(PS1)-With-Original-Controller-1-130970.JPG)
+
+Carousel accessory image of a [PS controller](https://i0.wp.com/www.gamingpark.it/wp-content/uploads/2020/04/DualSense3db_h.jpg?fit=1600%2C1067&ssl=1)
+
+Carousel accessory image of a [PS remote](https://internationaljournalofresearch.files.wordpress.com/2020/07/sony-ps5-rickmote.jpg)
+
+Carousel accessory image of a [PS camera](https://17kgroup.it/wp-content/uploads/2020/06/PS-Camera.jpg)
 
 ##### Videos
 
