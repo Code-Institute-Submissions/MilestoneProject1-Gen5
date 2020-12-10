@@ -1,6 +1,6 @@
 # Gen5
 
-An informative website to compare the latest generation of gaming consoles, the PlayStation 5 and the Xbox Series X. Made for my Code Institute Milestone Project 1.
+Welcome to Gen5, an informative website to compare the latest generation of gaming consoles, the PlayStation 5 and the Xbox Series X. Made for my Code Institute Milestone Project 1.
 
 ### Contents
 
@@ -18,6 +18,7 @@ ___
 <a name="intro"></a>
 ### Introduction
 
+
 ___
 
 <a name="tech"></a>
@@ -33,14 +34,14 @@ ___
 <a name="ux"></a>
 ### UX
 
-##### Potential Users
+#### Potential Users
 
 * Experienced with console gaming
 * New to console gaming 
   * New gamer
   * Friends/family of new gamer
 
-##### Features specific for users
+#### Features specific for users
 
 Experienced with a console
 
@@ -61,7 +62,7 @@ New to console gaming
 * Accessories
 * Previous consoles
 
-##### User stories
+#### User stories
 
 Experienced with console gaming:
 
@@ -81,8 +82,16 @@ Friends/family of new gamer
 2. As a friend/family member, I want to know about the latest games that are due for pre-order, which would make good presents.
 3. As a friend/family member, I want to buy my (friend/family member) that latest console but I cannot remember the name of their current model. 
 
-##### Wireframes
+#### Wireframes
 
+Index Page
+[Index Wireframe](MP1-index.png)
+
+Ps5 / Xbox Pages
+[Console Page Wireframe](MP1-console.png)
+
+Sign Up Page
+[Sign Up Wireframe](MP1-newsletter.png)
 ___
 
 <a name="feat"></a>
@@ -106,10 +115,10 @@ ___
 <a name="credit"></a>
 ### Credits
 
-##### Content
+#### Content
 
-##### Media
+#### Media
 
-##### Ackowledgements
+#### Ackowledgements
 ___
 
