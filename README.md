@@ -104,9 +104,7 @@ ___
 ### Features
 
 #### Header
-
 ##### Active
-
 * Logo that links to index Page
 * Interactive navbar to all site pages, with hover states.
 * Responsive navbar that: 
@@ -114,49 +112,39 @@ ___
   * alters layout to vertical on smaller screens 
 
 ##### To Do
-
 * Dropdown menu for the console page buttons, linking to specific sections of the page.
 
 #### Footer
-
 ##### Active
-
 * Link to competition page (gift icon) with hover states.
 * Responsive message that is hidden on smaller screens. 
 * Links to social media that loads each website on a new tab, with hover states.
 
 #### Index Page
-
 ##### Active
-
 * Responsive hero image and introduction message.
 * Info message that only appears on smaller screens, describing the responsive solution of the console comparison table.
 * Comparison table that is responsive and has a horizontal scrollbar when screen is too small.
 
 ##### To Do
-
 * Hover state over features column that describes each feature in simple terms. This will act as a gargon buster.
 
 #### PS5/Xbox Page
-
 ##### Active
-
 * Carousel showcasing accessories of the PlayStation 5 / Xbox series X.
 * Responsive accordion with three inner cards each.
 * Inner cards for console games, that have images, descriptions and price links. Also each card has a hover state shaddow.
 * Trailer video that links to youtube, responsive on smaller sizes.
 
 ##### To Do
-
 * Responsive hero image, past console gallery and intro message.
 * Responsive carousel with title, description and price.
 
-
 #### Sign Up Page
-
 ##### Active
 
 ##### To Do
+
 ___
 
 <a name="test"></a>
