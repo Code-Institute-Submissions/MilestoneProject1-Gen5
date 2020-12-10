@@ -135,11 +135,22 @@ ___
 
 ##### To Do
 
+* Hover state over features column that describes each feature in simple terms. This will act as a gargon buster.
+
 #### PS5/Xbox Page
 
 ##### Active
 
+* Carousel showcasing accessories of the PlayStation 5 / Xbox series X.
+* Responsive accordion with three inner cards each.
+* Inner cards for console games, that have images, descriptions and price links. Also each card has a hover state shaddow.
+* Trailer video that links to youtube, responsive on smaller sizes.
+
 ##### To Do
+
+* Responsive hero image, past console gallery and intro message.
+* Responsive carousel with title, description and price.
+
 
 #### Sign Up Page
 
