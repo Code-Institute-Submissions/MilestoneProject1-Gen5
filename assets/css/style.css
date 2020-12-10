@@ -246,6 +246,7 @@ footer {
 }
 
 .carousel-item{
+/*Credit: code taken from https://stackoverflow.com/questions/23018344/how-can-i-fix-bootstrap-carousel-dimensions/23018550*/
     min-height: 280px;
 }
 
@@ -300,7 +301,7 @@ footer {
   margin: 1% 5% 1% 5%;
 }
 
-/* On mouse-over, add a deeper shadow */
+/* Credit: code taken from https://www.w3schools.com/howto/howto_css_cards.asp, modifed for needs*/
 .inner-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,1);
 }
@@ -309,9 +310,8 @@ footer {
     height: 200px;
 }
 
-/* Add some padding inside the card container */
 .card-container {
-  padding: 2px 16px;
+  padding: 3px 16px;
 }
 
 /*-------------------------------------------Page 2/3-section 4-video*/
@@ -388,7 +388,7 @@ input[type=text], input[type=email] {
 #reason {
     width: 100%;
 }
-
+/*Credit: code taken from https://www.w3schools.com/css/css_form.asp, modified to suit needs, personalised styling*/
 .join-button {
     width: 90%;
     background-color: #B22F21;

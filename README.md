@@ -247,7 +247,19 @@ ___
 
 * Template code for carousel taken from [bootstrap.com](https://getbootstrap.com/docs/4.0/components/carousel/), heavily modified and styled for needs
 
-*
+* CSS for carousel image size taken from [stackoverflow.com](https://stackoverflow.com/questions/23018344/how-can-i-fix-bootstrap-carousel-dimensions/23018550). Further modification needed. 
+
+* Template code for cars ans styling from [W3Schools.com](https://www.w3schools.com/howto/howto_css_cards.asp), modifies for needs, personalised styling. 
+
+* CSS for form buttoms taken from [W3Schools.com](https://www.w3schools.com/css/css_form.asp), highly modified for needs, personally styled. 
+
+* Text area code taken from [W3Schools.com](https://www.w3schools.com/tags/att_textarea_required.asp), modified for needs.
+
+* Template code for form taken from Love Running - mini project, modified, personalised styling.
+
+* 
+
+* 
 
 
 
