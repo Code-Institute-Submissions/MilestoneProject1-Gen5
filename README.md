@@ -3,70 +3,37 @@
 ### Contents
 
 1. [Introduction](#intro) 
-2. Technology Used
-3. Launch
-4. UX
-5. Features active and to do
-6. Testing
-7. Deployment
-8. Credits content media and ackowledgements
+2. [Technologies](#tech) 
+3. [Launch](#launch)
+4. [UX](#ux)
+5. [Features](#feat) active and to do
+6. [Testing](#test)
+7. [Deployment](#deploy)
+8. [Credits](#credit) content media and ackowledgements
 
-
-dod
-dod
-dod
-dod
-dod
-
-dod
-dod
-dod
-dod
-dod
-d
-
-dod
-dod
-dod
-do
-do
-
-do
-
-do
-
-do
-do
-
-do
-
-do
-do
-
-do
-d
-
-
-d
-
-
-do
-
-do
-d
-
-
-do
-
-dod
-
-dod
-dod
-
+___
 
 <a name="intro"></a>
 ### Introduction
 
+<a name="tech"></a>
+### Technologies
 
+<a name="launch"></a>
+### Launch
 
+<a name="ux"></a>
+### UX
+
+<a name="feat"></a>
+### Features
+
+<a name="test"></a>
+### Testing
+
+<a name="deploy"></a>
+### Deployment
+
+<a name="credit"></a>
+### Credits
 
