@@ -227,7 +227,29 @@ ___
 
 * Footer alignment code taken from [Stack overflow](https://stackoverflow.com/questions/5661520/centering-2-divs-inside-another-vertically)
 
-* 
+* Code to center a table taken from [W3Schools.com](https://www.w3schools.com/howto/howto_css_table_center.asp), adapted for streamlining.
+
+* Header responsiveness code taken from [Love Running- Mini Project]()
+
+* Code to hide divs at smaller screen sizes taken from [jquery](https://stackoverflow.com/questions/19705066/remove-a-div-if-screen-size-is-smaller-than-640px)
+
+* Code to make hr element appear on screem taken from [W3Schools.com](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr)
+
+* Convert colors from rgba to hex on [W3Schools.com](https://www.w3schools.com/colors/colors_hexadecimal.asp?color=00bfff)
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+
 
 
 

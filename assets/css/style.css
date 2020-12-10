@@ -100,8 +100,9 @@ nav .active {
 /*-------------------------------------------Page 1-hr*/
 
 hr {
-    border-top: 2px solid yellow;
     margin: 75px 5% 75px 5%;
+/* Code taken from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr */
+    border-top: 2px solid yellow;
 }
 
 /*-------------------------------------------Page 1-section 2-table*/
@@ -111,6 +112,7 @@ hr {
     padding: 10px;
     background-color: rgba(240, 54, 32, .7);
     width: 90%;
+    /* Code taken from https://www.w3schools.com/howto/howto_css_table_center.asp, adapted for streamlining */
     margin: 0 auto;
 }
 
@@ -412,6 +414,8 @@ input[type=text], input[type=email] {
 
 @media screen and (max-width: 950px) {
 /*-------------------------------------------Page 1-header*/
+    
+/*Code taken from https://stackoverflow.com/questions/19705066/remove-a-div-if-screen-size-is-smaller-than-640px, used again later in media queries*/
     #navbar-div i {
         display: none;
     }
@@ -437,7 +441,7 @@ input[type=text], input[type=email] {
     #logo {
         line-height: 100px;
     }
-
+/* Code taken from Love running mini project, modified to suit needs */
     #nav-menu {
         display: block;
         line-height: 50px;
