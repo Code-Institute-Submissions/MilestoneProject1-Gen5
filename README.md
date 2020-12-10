@@ -255,6 +255,8 @@ Xbox Series X [trailer](https://www.youtube.com/watch?v=DIMAujZpry0)
 
 ##### Text
 
+table contents collected from [psu.com](https://www.psu.com/forums/threads/ps5-vs-xbox-series-x-updated-specs-comparison.340035/)
+
 #### Ackowledgements
 ___
 
