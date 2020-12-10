@@ -40,7 +40,7 @@ Technologies used to create the site:
   * the project uses **google fonts** as a source for its extra fonts.
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIovzYmYzE7QIVhOvtCh0Nrwz5EAAYASAAEgKhdvD_BwE)
   * The project used **Balsamiq** to create wireframes during the planning phase.
-  [Color Dropper](https://chrome.google.com/webstore/detail/color-dropper/cbagleaaaocejmdeichhdkmjebpljckh)
+* [Color Dropper](https://chrome.google.com/webstore/detail/color-dropper/cbagleaaaocejmdeichhdkmjebpljckh)
   * Used in project to help select colors.
 ___
 
