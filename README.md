@@ -9,9 +9,9 @@ Welcome to Gen5, an informative website to compare the latest generation of gami
 1. [Introduction](#intro) 
 2. [Technologies](#tech) 
 3. [UX](#ux)
-4. [Features](#feat) active and to do
+4. [Features](#feat)
 5. [Testing](#test)
-6. [Launch](#launch
+6. [Launch](#launch)
 7. [Deployment](#deploy)
 8. [Credits](#credit)
 
@@ -108,9 +108,7 @@ ___
 ##### Active
 
 * Logo that links to index Page
-
 * Interactive navbar to all site pages, with hover states.
-
 * Responsive navbar that: 
   * removes icons on small screens 
   * alters layout to vertical on smaller screens 
@@ -124,14 +122,16 @@ ___
 ##### Active
 
 * Link to competition page (gift icon) with hover states.
-
 * Responsive message that is hidden on smaller screens. 
-
 * Links to social media that loads each website on a new tab, with hover states.
 
 #### Index Page
 
 ##### Active
+
+* Responsive hero image and introduction message.
+* Info message that only appears on smaller screens, describing the responsive solution of the console comparison table.
+* Comparison table that is responsive and has a horizontal scrollbar when screen is too small.
 
 ##### To Do
 
