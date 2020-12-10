@@ -1,8 +1,8 @@
-# Gen5 - Informative Tecjnology Website
+# Gen5 - Informative Technology Website
 
 ### Contents
 
-1. [Introduction](Introduction) 
+1. [Introduction](#intro) 
 2. Technology Used
 3. Launch
 4. UX
@@ -27,10 +27,44 @@ d
 
 dod
 dod
+dod
+do
+do
+
+do
+
+do
+
+do
+do
+
+do
+
+do
+do
+
+do
+d
+
+
+d
+
+
+do
+
+do
+d
+
+
+do
+
+dod
 
 dod
 dod
 
+
+<a name="intro"></a>
 ### Introduction
 
 
