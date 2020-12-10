@@ -1,8 +1,8 @@
 # Gen5 - Informative Tecjnology Website
 
-### Cotents
+### Contents
 
-1. [Introduction] Introduction 
+1. [Introduction](Introduction) 
 2. Technology Used
 3. Launch
 4. UX
