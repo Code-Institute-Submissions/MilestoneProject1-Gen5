@@ -249,7 +249,7 @@ Gallery image of the [Xbox](https://solaris525.files.wordpress.com/2012/05/xbox.
 
 ##### Videos
 
-PlayStation 5 [trailer](https://www.youtube.com/embed/ZmSNJEYtyds)
+PlayStation 5 [trailer](https://www.youtube.com/watch?v=ZmSNJEYtyds)
 
 Xbox Series X [trailer](https://www.youtube.com/watch?v=DIMAujZpry0)
 
