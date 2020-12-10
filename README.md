@@ -171,15 +171,17 @@ ___
 3. Footer social link layout
   * The layout of the footer social links aligned vertically,  wasting the provided space.
   * To solve this I added diplay:inline to the css, allowing them to align horizontally.
+  * Code from [stackoverflow.com](https://stackoverflow.com/questions/5661520/centering-2-divs-inside-another-vertically)
 
 4. Hero image unresponsive
   * The hero image aligned centrally but was unresponsive, so was partially hidden on smaller screens.
   * To solve this I added max-width: 100%, height auto. this allowed it to resize on smaller screens without stretching and compremising the image quality on larger screens. 
+  * Code from [W3Schools.com](https://www.w3schools.com/css/css3_images.asp)
 
 5. Section dividers (hr) invisible
   * After entering section dividers, the space would be present but no line was visible.
   * To solve this I added a border-top: 2px solid yellow, which showed the dividing line while staying in the width perameters I had already set.
-
+  * Code from [W3Schools.com](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr)
 #### Remaining Bugs
 
 1. Carousel unresponsive
@@ -257,7 +259,7 @@ ___
 
 * Template code for form taken from Love Running - mini project, modified, personalised styling.
 
-* 
+* Template code for accordion taken from [bootstrap.com](https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example), heavily modified for needs, personally styled.
 
 * 
 
