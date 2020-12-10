@@ -84,14 +84,11 @@ Friends/family of new gamer
 
 #### Wireframes
 
-Index Page
-[Index Wireframe](assets/wireframes/MP1-index.png)
+[Index Page Wireframe](assets/wireframes/MP1-index.png)
 
-Ps5 / Xbox Pages
-[Console Page Wireframe](assets/wireframes/MP1-console.png)
+[Console Pages Wireframe](assets/wireframes/MP1-console.png)
 
-Sign Up Page
-[Sign Up Wireframe](assets/wireframes/MP1-newsletter.png)
+[Sign Up Page Wireframe](assets/wireframes/MP1-newsletter.png)
 ___
 
 <a name="feat"></a>
