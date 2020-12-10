@@ -219,6 +219,8 @@ ___
 ##### Images
 All images were located via bing images, searched under creative commons licences.
 
+##### Playstation Images
+
 Hero image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
 
 Hero image of the [PS5 only](https://www.diariodeunjugon.com/wp-content/uploads/2020/06/asi-es-playstation-5-sony-1.jpg)
@@ -236,6 +238,8 @@ Carousel accessory image of a [PS controller](https://i0.wp.com/www.gamingpark.i
 Carousel accessory image of a [PS remote](https://internationaljournalofresearch.files.wordpress.com/2020/07/sony-ps5-rickmote.jpg)
 
 Carousel accessory image of a [PS camera](https://17kgroup.it/wp-content/uploads/2020/06/PS-Camera.jpg)
+
+##### Xbox Images
 
 Hero image of the [Xbox Series X](http://www.xboxygen.com/IMG/jpg/xbox-series-x-console.jpg)
 
