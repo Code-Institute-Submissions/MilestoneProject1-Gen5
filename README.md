@@ -171,7 +171,7 @@ ___
   * The hero image aligned centrally but was unresponsive, so was partially hidden on smaller screens.
   * To solve this I added max-width: 100%, height auto. this allowed it to resize on smaller screens without stretching and compremising the image quality on larger screens. 
 
-5. Section dividers (<hr>) invisible
+5. Section dividers (hr) invisible
   * After entering section dividers, the space would be present but no line was visible.
   * To solve this I added a border-top: 2px solid yellow, which showed the dividing line while staying in the width perameters I had already set.
 
@@ -183,13 +183,13 @@ ___
 2. Video link Layout
   * The youtube videos leave a large space underneith before the footer. This is particularly evident on larger screens.
 
-
-
 ### Manual Testing
 
 Expected, testing, result, fix
 
 ### User Story Tests
+
+Story, how issue was addressed, sceenshot
 ___
 
 <a name="launch"></a>
@@ -216,6 +216,14 @@ ___
 *
 
 #### Media
+##### Images
+
+![Image of PS5 and Xbox Series X](assets/images/combo.jpg)
+Image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
+
+##### Videos
+
+##### Text
 
 #### Ackowledgements
 ___
