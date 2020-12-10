@@ -36,8 +36,12 @@ Technologies used to create the site:
   * The project uses **Bootstrap Version 4.5.2** to simplify the creation of site features, for example carousels and accordions. 
 * [Font Awesome](https://fontawesome.com/)
   * The project uses **Font Awesome Version 5.15.1** to add icons that aid aesthetics or provide social media links.
+* [Google Fonts](https://fonts.google.com/)
+  * the project uses **google fonts** as a source for its extra fonts.
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIovzYmYzE7QIVhOvtCh0Nrwz5EAAYASAAEgKhdvD_BwE)
   * The project used **Balsamiq** to create wireframes during the planning phase.
+  [Color Dropper](https://chrome.google.com/webstore/detail/color-dropper/cbagleaaaocejmdeichhdkmjebpljckh)
+  * Used in project to help select colors.
 ___
 
 <a name="ux"></a>
@@ -158,6 +162,7 @@ ___
 1. Navbar link alignment
   * The navbar links would automatically align on the left of the screen next to the logo. 
   * To solve this I applied justify-content: flex-end, allowing the links to hug the right side of the screen
+  * Code from [W3Schools.com](https://www.w3schools.com/cssref/css3_pr_justify-content.asp)
 
 2. Footer layout
   * The layout of the footer element would align vertically, even on larger screens.
@@ -206,14 +211,32 @@ ___
 ### Credits
 
 #### Code
+* Universal selector code taken from code institute [Love Running - mini project]() 
 
-*
+* Extra universal selector (box-sizing) taken from [W3Schools.com](https://www.w3schools.com/css/css3_box-sizing.asp)
 
-*
+* Code used to align navbar using justify-content:flex-end on [W3Schools.com](https://www.w3schools.com/cssref/css3_pr_justify-content.asp)
 
-*
+* Navbar layout taken from [W3Schools.com](https://www.w3schools.com/howto/howto_css_fixed_menu.asp), heavily modified and styled to suit needs. 
 
-*
+* Hero image (responsiveness only) code taken from [W3Schools.com](https://www.w3schools.com/css/css3_images.asp)
+
+* Footer template taken from [Love Running - mini project](), modified and styled to suit needs
+
+* Font awesome latest version [upload guide](https://www.youtube.com/watch?v=wiw68Y-hPlA) 
+
+* Footer alignment code taken from [Stack overflow](https://stackoverflow.com/questions/5661520/centering-2-divs-inside-another-vertically)
+
+* 
+
+
+
+
+
+
+
+
+
 
 #### Media
 ##### Images
@@ -221,52 +244,52 @@ All images were located via bing images, searched under creative commons licence
 
 ##### Playstation Images
 
-Hero image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
+* Hero image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
 
-Hero image of the [PS5 only](https://www.diariodeunjugon.com/wp-content/uploads/2020/06/asi-es-playstation-5-sony-1.jpg)
+* Hero image of the [PS5 only](https://www.diariodeunjugon.com/wp-content/uploads/2020/06/asi-es-playstation-5-sony-1.jpg)
 
-Gallery image of the [PS4](https://res-5.cloudinary.com/gadgetby/image/upload/c_pad,dpr_1.0,f_auto,h_1200,q_80,w_1200/media/catalog/product/g/a/gadgetbyps4slim-1_1.jpg)
+* Gallery image of the [PS4](https://res-5.cloudinary.com/gadgetby/image/upload/c_pad,dpr_1.0,f_auto,h_1200,q_80,w_1200/media/catalog/product/g/a/gadgetbyps4slim-1_1.jpg)
 
-Gallery image of the [PS3](https://www.lukiegames.com/assets/images/PS3/ps3_sys_20gb_bw_p_z52mxa.jpg)
+* Gallery image of the [PS3](https://www.lukiegames.com/assets/images/PS3/ps3_sys_20gb_bw_p_z52mxa.jpg)
 
-Gallery image of the [PS2](https://www.techhog.com/wp-content/uploads/2020/05/How-to-Play-PS2-Games-on-PS4.jpg)
+* Gallery image of the [PS2](https://www.techhog.com/wp-content/uploads/2020/05/How-to-Play-PS2-Games-on-PS4.jpg)
 
-Gallery image of the [PS1](https://retro.poromagia.com/media/images/products/2017/02/Playstation-1-Console-(PS1)-With-Original-Controller-1-130970.JPG)
+* Gallery image of the [PS1](https://retro.poromagia.com/media/images/products/2017/02/Playstation-1-Console-(PS1)-With-Original-Controller-1-130970.JPG)
 
-Carousel accessory image of a [PS controller](https://i0.wp.com/www.gamingpark.it/wp-content/uploads/2020/04/DualSense3db_h.jpg?fit=1600%2C1067&ssl=1)
+* Carousel accessory image of a [PS controller](https://i0.wp.com/www.gamingpark.it/wp-content/uploads/2020/04/DualSense3db_h.jpg?fit=1600%2C1067&ssl=1)
 
-Carousel accessory image of a [PS remote](https://internationaljournalofresearch.files.wordpress.com/2020/07/sony-ps5-rickmote.jpg)
+* Carousel accessory image of a [PS remote](https://internationaljournalofresearch.files.wordpress.com/2020/07/sony-ps5-rickmote.jpg)
 
-Carousel accessory image of a [PS camera](https://17kgroup.it/wp-content/uploads/2020/06/PS-Camera.jpg)
+* Carousel accessory image of a [PS camera](https://17kgroup.it/wp-content/uploads/2020/06/PS-Camera.jpg)
 
 ##### Xbox Images
 
-Hero image of the [Xbox Series X](http://www.xboxygen.com/IMG/jpg/xbox-series-x-console.jpg)
+* Hero image of the [Xbox Series X](http://www.xboxygen.com/IMG/jpg/xbox-series-x-console.jpg)
 
-Gallery image of the [Xbox One X](https://trp02.s3.amazonaws.com/wp-content/uploads/2017/11/Xbox-One-X_Console-Controller_Hrz_ANR-White-Background.jpg)
+* Gallery image of the [Xbox One X](https://trp02.s3.amazonaws.com/wp-content/uploads/2017/11/Xbox-One-X_Console-Controller_Hrz_ANR-White-Background.jpg)
 
-Gallery image of the [Xbox One](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/1200px-Microsoft-Xbox-One-Console-Set-wKinect.jpg)
+* Gallery image of the [Xbox One](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/1200px-Microsoft-Xbox-One-Console-Set-wKinect.jpg)
 
-Gallery image of the [Xbox 360](https://th.bing.com/th/id/OIP.HqGoQC-TohRe4EMYkDafmAHaEK?pid=Api&rs=1)
+* Gallery image of the [Xbox 360](https://th.bing.com/th/id/OIP.HqGoQC-TohRe4EMYkDafmAHaEK?pid=Api&rs=1)
 
-Gallery image of the [Xbox](https://solaris525.files.wordpress.com/2012/05/xbox.jpg)
+* Gallery image of the [Xbox](https://solaris525.files.wordpress.com/2012/05/xbox.jpg)
 
 ##### Videos
 
-PlayStation 5 [trailer](https://www.youtube.com/watch?v=ZmSNJEYtyds)
+* PlayStation 5 [trailer](https://www.youtube.com/watch?v=ZmSNJEYtyds)
 
-Xbox Series X [trailer](https://www.youtube.com/watch?v=DIMAujZpry0)
+* Xbox Series X [trailer](https://www.youtube.com/watch?v=DIMAujZpry0)
 
 ##### Text
 
-Table contents collected from [psu.com](https://www.psu.com/forums/threads/ps5-vs-xbox-series-x-updated-specs-comparison.340035/)
+* Table contents collected from [psu.com](https://www.psu.com/forums/threads/ps5-vs-xbox-series-x-updated-specs-comparison.340035/)
 
 #### Ackowledgements
 
-Inspired by Code Institute HTML/CSS - [Love Running Mini Project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/course/)
+* Inspired by Code Institute HTML/CSS - [Love Running Mini Project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/course/)
 General reference / tutorial assisstance. Login required.
 
-Inspired by [W3Schools.com](https://www.w3schools.com/html/html_intro.asp)
+* Inspired by [W3Schools.com](https://www.w3schools.com/html/html_intro.asp)
 General reference / tutorial assistance.
 ___
 

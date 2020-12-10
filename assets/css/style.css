@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Rokkitt:wght@200;400;600;800&display=swap');
 
 * {
+/*credit: code taken from Love Running - mini project*/
     margin: 0;
     padding: 0;
     border: 0;
+/*credit: code taken from https://www.w3schools.com/css/css3_box-sizing.asp */
     box-sizing: border-box;
 }
 
@@ -40,6 +42,7 @@ h2 {
 
 nav {
     display: flex;
+/* Code taken from https://www.w3schools.com/cssref/css3_pr_justify-content.asp */
     justify-content: flex-end;
 }
 
@@ -78,6 +81,7 @@ nav .active {
     display: block;
     margin-left: auto;
     margin-right: auto;
+/* Code taken from https://www.w3schools.com/css/css3_images.asp */
     max-width: 100%;
     height: auto;
 }
@@ -146,9 +150,11 @@ td:nth-child(2) {
 footer {
     margin-top: 75px;
     height: 150px;
+    background-color: rgb(15,15,15);
+/* Code taken from https://stackoverflow.com/questions/5661520/centering-2-divs-inside-another-vertically */
     display: flex;
     align-items: center;
-    background-color: rgb(15,15,15)
+
 }
 
 #footer-message {
