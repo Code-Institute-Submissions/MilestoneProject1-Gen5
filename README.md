@@ -20,7 +20,7 @@ ___
 <a name="intro"></a>
 ### Introduction
 
-
+This site will compare and contrast the fifth generation of gaming consoles (hence the name Gen5). With the recent release of the PlayStation 5 (Sony) and Xbox Series X (Microsoft), Gen5 will provide a direct comparison between the two as well as showcasing featues, accessories and games.
 ___
 
 <a name="tech"></a>
