@@ -217,7 +217,7 @@ ___
 
 #### Media
 ##### Images
-All images were sourced from bing images, under creative commons licences.
+All images were located via bing images, searched under creative commons licences.
 
 Hero image of the [PS5/Xbox Series X Combination](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTc0MTUxOTI3NTA2OTM3MTE3/everything-we-know-about-the-next-console-generation-so-far.jpg)
 
@@ -236,6 +236,16 @@ Carousel accessory image of a [PS controller](https://i0.wp.com/www.gamingpark.i
 Carousel accessory image of a [PS remote](https://internationaljournalofresearch.files.wordpress.com/2020/07/sony-ps5-rickmote.jpg)
 
 Carousel accessory image of a [PS camera](https://17kgroup.it/wp-content/uploads/2020/06/PS-Camera.jpg)
+
+Hero image of the [Xbox Series X](http://www.xboxygen.com/IMG/jpg/xbox-series-x-console.jpg)
+
+Gallery image of the [Xbox One X](https://trp02.s3.amazonaws.com/wp-content/uploads/2017/11/Xbox-One-X_Console-Controller_Hrz_ANR-White-Background.jpg)
+
+Gallery image of the [Xbox One](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/1200px-Microsoft-Xbox-One-Console-Set-wKinect.jpg)
+
+Gallery image of the [Xbox 360](https://th.bing.com/th/id/OIP.HqGoQC-TohRe4EMYkDafmAHaEK?pid=Api&rs=1)
+
+Gallery image of the [Xbox](https://solaris525.files.wordpress.com/2012/05/xbox.jpg)
 
 ##### Videos
 
