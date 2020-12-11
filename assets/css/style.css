@@ -130,10 +130,10 @@ table {
 
 table, th, td {
     border: 2px solid yellow;
+    font-family: Quicksand, sans-serif;
 /*Credit: Code taken from https://www.w3schools.com/css/css_table.asp */
     border-collapse: collapse;
     color: white;
-    font-family: Quicksand, sans-serif;
 }
 
 td, th {
@@ -205,7 +205,7 @@ footer {
 }
 
 .social-links i {
-    font-size: 120%;
+    font-size: 150%;
     padding: 3%;
     margin-right: 20px;
     color: yellow;
