@@ -253,8 +253,7 @@ footer {
 
 .carousel{
     background: rgba(240, 54, 32, .7);
-    margin-top: 20px;
-    border-right: 2px solid yellow;
+    border: 2px solid yellow;
 }
 
 .carousel-item{
@@ -263,16 +262,31 @@ footer {
 }
 
 .carousel-item img {
-    width: 700px;
-    padding: 20px 0px 60px 100px;
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    margin: 0 auto;
 }
 
-#ps-message h2 {
-    width: 100%;
+.carousel-caption {
+    background-color: #B22F21;
+    padding: 0;
 }
 
-#ps-message p {
-    width: 100%;
+.carousel-caption h2 {
+    color: white;
+}
+
+.carousel-caption p {
+    color: yellow;
+}
+
+.carousel-control-prev span {
+    background-color: rgba(240, 54, 32, 1);
+}
+
+.carousel-control-next span {
+    background-color: rgba(240, 54, 32, 1);
 }
 
 /*-------------------------------------------Page 2/3-section 3-accordion*/
@@ -509,11 +523,6 @@ input[type=text], input[type=email] {
 /*-------------------------------------------Page 2/3-section 1-console info*/
     #gallery {
     column-count: 1;
-    }
-
-    #gallery .current-image {
-    height: 400px;
-    width: 400px;
     }
 
     #past-image-set {
