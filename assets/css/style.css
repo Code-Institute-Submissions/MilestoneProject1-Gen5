@@ -254,6 +254,7 @@ footer {
 .carousel{
     background: rgba(240, 54, 32, .7);
     border: 2px solid yellow;
+    padding: 10px; 
 }
 
 .carousel-item{
@@ -262,15 +263,16 @@ footer {
 }
 
 .carousel-item img {
-    width: 100%;
     max-height: 500px;
     object-fit: cover;
     margin: 0 auto;
+/*Credit: cose taken from https://stackoverflow.com/questions/30538967/how-to-center-image-in-carousel/30539078 */
+    width: 100%;
 }
 
 .carousel-caption {
     background-color: #B22F21;
-    padding: 0;
+    padding: 0px;
 }
 
 .carousel-caption h2 {

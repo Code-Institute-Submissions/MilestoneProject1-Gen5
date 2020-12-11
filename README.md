@@ -261,7 +261,7 @@ ___
 
 * Template code for accordion taken from [bootstrap.com](https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example), heavily modified for needs, personally styled.
 
-* 
+* Width of carousel code taken from [stackoverflow.com](https://stackoverflow.com/questions/30538967/how-to-center-image-in-carousel/30539078)
 
 
 
