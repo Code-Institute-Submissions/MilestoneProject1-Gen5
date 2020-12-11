@@ -64,6 +64,7 @@ nav {
 }
 
 #nav-menu a {
+    font-family: Quicksand, sans-serif;
     text-decoration: none;
     color: yellow;
     padding: 10px 20px 10px 20px; 
@@ -111,6 +112,7 @@ hr {
 /*-------------------------------------------Page 1-section 2-table*/
 
 .table-message {
+    font-family: Quicksand, sans-serif;
     text-align: center;
     padding: 10px;
     background-color: rgba(240, 54, 32, .7);
@@ -121,6 +123,7 @@ hr {
 
 table {
     width: 80%;
+    min-width: 800px;
     margin: 0 auto; 
 }
 
@@ -130,6 +133,7 @@ table, th, td {
 /*Credit: Code taken from https://www.w3schools.com/css/css_table.asp */
     border-collapse: collapse;
     color: white;
+    font-family: Quicksand, sans-serif;
 }
 
 td, th {
@@ -167,6 +171,15 @@ footer {
     float: left;
     margin: 35px;
     width: 40%;
+}
+
+#footer-message h4 {
+    font-family: Rokkitt, sans-serif;
+    color: white;
+}
+
+#footer-message p {
+    font-family: Quicksand, sans-serif;
 }
 
 #footer-message i {
@@ -491,6 +504,7 @@ input[type=text], input[type=email] {
     #logo {
         text-align: center;
         width: 100%;
+        margin-left: 0;
     }
 
     #logo {
