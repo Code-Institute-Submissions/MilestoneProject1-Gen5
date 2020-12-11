@@ -32,12 +32,15 @@ h2 {
     font-family: Rokkitt, sans-serif;
     text-transform: uppercase;
     color: white;
+    font-family: Rokkitt, sans-serif;
 }
 
 #logo {
     float: left;
     font-size: 400%;
+    font-weight: 600;
     padding:5px;
+    margin-left: 5px;
 }
 
 nav {
@@ -452,11 +455,17 @@ input[type=text], input[type=email] {
         display: none;
     }
 
+
+
     /*-------------------------------------------Page 1-section 2-table*/
 
     .table-div {
         padding-top: 20px;
     }
+
+    #nav-menu a {
+    padding: 10px 15px 10px 15px; 
+}
 
     /*-------------------------------------------Page 2/3-section 1-console info*/
     #gallery {
@@ -535,8 +544,8 @@ input[type=text], input[type=email] {
 /*-------------------------------------------Page 2/3-section 4-video*/
 
     .video-container iframe {
-    width: 80%;
-    height: 80%;
+        width: 80%;
+        height: 80%;
     }
 
 /*-------------------------------------------Page 4-section 1-video*/
