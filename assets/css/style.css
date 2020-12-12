@@ -295,6 +295,7 @@ footer {
 .carousel-caption {
     background-color: #B22F21;
     padding: 0px;
+    font-size: 80%;
 }
 
 .carousel-caption h2 {
