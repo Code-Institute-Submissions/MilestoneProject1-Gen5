@@ -292,6 +292,12 @@ footer {
     width: 100%;
 }
 
+.carousel-item a {
+    color: yellow;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
 .carousel-caption {
     background-color: #B22F21;
     padding: 0px;
@@ -445,8 +451,6 @@ input[type=text], input[type=email] {
     font-family: Rokkitt, sans-serif;
     color: white;
 }
-
-
 
 #comp-input {
     width: 50%;
