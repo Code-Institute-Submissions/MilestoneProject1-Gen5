@@ -277,7 +277,7 @@ ___
 
 #### Media
 ##### Images
-All images were located via bing images, searched under creative commons licences.
+All images were located via bing images, searched under "free to share and use" licences.
 
 ##### Playstation Images
 
