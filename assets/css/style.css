@@ -436,10 +436,17 @@ input[type=text], input[type=email] {
 }
 
 #comp-info {
-    color: white;
+    color: yellow;
     width: 50%;
     padding: 10px;
 }
+
+#comp-info h4 {
+    font-family: Rokkitt, sans-serif;
+    color: white;
+}
+
+
 
 #comp-input {
     width: 50%;
