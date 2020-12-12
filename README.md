@@ -265,7 +265,7 @@ ___
 
 * Width of carousel code taken from [stackoverflow.com](https://stackoverflow.com/questions/30538967/how-to-center-image-in-carousel/30539078)
 
-
+* Progress bar template code taken from [bootstrap.com](https://www.w3schools.com/bootstrap/bootstrap_progressbars.asp), heavily modified to suit needs, personalised css.
 
 
 
