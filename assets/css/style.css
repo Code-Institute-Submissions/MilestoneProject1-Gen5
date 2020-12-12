@@ -296,6 +296,7 @@ footer {
     background-color: #B22F21;
     padding: 0px;
     font-size: 80%;
+    font-family: Rokkitt, sans-serif;
 }
 
 .carousel-caption h2 {
@@ -304,6 +305,7 @@ footer {
 
 .carousel-caption p {
     color: yellow;
+    font-family: Quicksand, sans-serif;
 }
 
 .carousel-control-prev span {
@@ -359,6 +361,7 @@ footer {
 
 .inner-card img{
     height: 200px;
+    object-fit: cover;
 }
 
 .card-container {
