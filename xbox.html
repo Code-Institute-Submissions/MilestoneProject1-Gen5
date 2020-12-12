@@ -37,11 +37,185 @@
             </nav>
         </div>
     </header>
-    <section>
-        <p>Placeholder text - xbox page</p>
+    <section id="ps-info">
+        <div id="gallery">
+            <div id="console-image-set">
+                <img src="assets/images/xbox/xbox.jpg" alt="Xbox Series X Console" class="current-image">
+            </div>
+            <div id="past-image-set">
+                <img src="assets/images/xbox/x4.jpg" alt="Xbox One X Console" class="past-image">
+                <img src="assets/images/xbox/x3.jpg" alt="Xbox One Console" class="past-image">
+                <img src="assets/images/xbox/x2.jpg" alt="Xbox 360 Console" class="past-image">
+                <img src="assets/images/xbox/x1.jpg" alt="Xbox Console" class="past-image">
+            </div>
+        </div>
+        <div id="ps-message">
+            <h2>PlayStation 5</h2>
+            <p>Sony's latest flagship console has been released, combining cutting edge technology with a sleek, modern design. The PS5 has a miriad of new features that vastly improve on the shorcomings of it's predecessor, including a custom CPU/GPU that increases speed and power as well as a revolutionary new controller. With a price that keeps it competitive, the PS5 has made an excellent start in the latest console war.</p>
+        </div>
     </section>
+    <hr>
+<!--Credit: Template code taken from https://getbootstrap.com/docs/4.0/components/carousel/-->
     <section>
-    
+        <div class="container-lg my-3">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="assets/images/psa3.jpg" alt="First Slide">
+                        <div class="carousel-caption d-none d-sm-block">
+                            <h5>Dualsense Wireless Controller</h5>
+                            <p>Packed with features including haptic feedback, adaptive triggers and a built in microphone. Available on <a target="_blank" href="https://www.game.co.uk/en/dualsense-wireless-controller-2826347">Game.com</a>, retail price £59.99.</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/images/psa1.jpg" alt="Second Slide">
+                        <div class="carousel-caption d-none d-sm-block">
+                            <h5>PS5 Media Remote</h5>
+                            <p>Make browsing between TV and media a breeze with intuative controls and dedicated navigation buttons. Available on <a target="_blank" href="https://www.game.co.uk/en/playstation-5-media-remote-2826363">Game.com</a>, retail price £24.99.</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/images/psa2.jpg" alt="Third Slide">
+                        <div class="carousel-caption d-none d-sm-block">
+                            <h5>HD Camera</h5>
+                            <p>The official PS5 camera with dual lenses and a built in stand, great for personal broadcasting. Available on <a target="_blank" href="https://www.game.co.uk/en/playstation-5-hd-camera-2826353">Game.com</a>, retail price £49.99.</p>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </a>
+            </div>
+        </div>
+    </section>
+    <hr>
+    <section>
+<!--Template code taken from https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example-->
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne"
+                        aria-expanded="true" aria-controls="collapseOne" >Latest Releases</button>
+                    </h2>
+                </div>
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body">
+<!--Credit: Code taken from https://www.w3schools.com/howto/howto_css_cards.asp-->
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamecp.jpeg" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Cyberpunk 2077</b></h4>
+                                <p>Play as V and explore Night City in this openworld advenuture. Completely customize and upgrade your character.</p>
+                                <p>On sale now: £54.99</p>
+                            </div>
+                        </div>
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamep.png" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>The Pathless</b></h4>
+                                <p>The mythic adventure of an archer and an eagle who will strengthen their friendship as they save the world.</p>
+                                <p>On sale now: £44.99</p>
+                            </div>
+                        </div>
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamepp.jpg" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Puyo Puyo Tetris</b></h4>
+                                <p>Combines the japanese classic puyo puyo with the gaming jugernaut tetris. Up to 4 player gameplay online or offline.</p>
+                                <p>On sale now: £34.99</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                     <h2 class="mb-0">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo"
+                        aria-expanded="false" aria-controls="collapseTwo">Pre-order</button>
+                    </h2>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body">
+                                                <div class="inner-card">
+                            <img src="assets/images/games/gamehm.png" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Hitman Three</b></h4>
+                                <p>Hitman is back in the last installment of the trillogy. Choose your own path in a game where freedon is unparalelled.</p>
+                                <p>Release date: 20/01/2021</p>
+                            </div>
+                        </div>
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamehp.jpg" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Hogwarts Legacy</b></h4>
+                                <p>You are accepted to hogwarts school of witchcraft and wizardry. Explore like never before in thus original open world adventure. </p>
+                                <p>Release date: Summer 2021</p>
+                            </div>
+                        </div>
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamess.png" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Suicide Squad</b></h4>
+                                <p>The justice league has been corupted and is destroying metropolis. All you have to do is defeat them...should be easy enough!</p>
+                                <p>Release date: 2022</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree"
+                        aria-expanded="false" aria-controls="collapseThree" >Console Exclusive</button>
+                    </h2>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample" >
+                    <div class="card-body">
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamemm.png" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Spider Man Miles Morales</b></h4>
+                                <p>Explore new york as an all new spiderman, Miles Morales. Take down villains with an array of unique and powerful abilities.</p>
+                                <p>On sale now: £51.99</p>
+                            </div>
+                        </div>
+                        <div class="inner-card">
+                            <img src="assets/images/games/gameos.png" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Oddworld: Soulstorm</b></h4>
+                                <p>Abe is back! Pick up where this unlikely hero left off and take on the Glukkons corporate empire in this thrilling update to the franchise. </p>
+                                <p>Release date: 2021</p>
+                            </div>
+                        </div>
+                        <div class="inner-card">
+                            <img src="assets/images/games/gamehz.png" alt="Avatar" style="width:100%">
+                            <div class="card-container">
+                                <h4><b>Horizon: Forbidden West</b></h4>
+                                <p>The sequel that everyone has been waiting for sees a return of Aloy,  with a mysterious sickness infecting all organic life.</p>
+                                <p>Release date: 2021</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </section>
+    <hr>
+    <section>
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/DIMAujZpry0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </section>
     <footer>
         <div id="footer-message">
