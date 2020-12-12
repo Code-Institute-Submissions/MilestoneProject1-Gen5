@@ -331,7 +331,8 @@ footer {
 }
 
 .card-header button {
-    color: white;
+    color: yellow;
+    font-family: Rokkitt, sans-serif;
 }
 
 .card-header button:hover {
@@ -362,6 +363,18 @@ footer {
 .inner-card img{
     height: 200px;
     object-fit: cover;
+}
+
+.inner-card h4 {
+    font-family: Rokkitt, sans-serif;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.inner-card p {
+    font-family: Quicksand, sans-serif;
+    font-size: 15px;
 }
 
 .card-container {
