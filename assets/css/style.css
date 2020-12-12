@@ -331,12 +331,13 @@ footer {
 }
 
 .card-header button {
-    color: yellow;
+    color: white;
     font-family: Rokkitt, sans-serif;
+    font-size: 70%;
 }
 
 .card-header button:hover {
-    color: white;
+    color: yellow;
     text-decoration: none;
 }
 
