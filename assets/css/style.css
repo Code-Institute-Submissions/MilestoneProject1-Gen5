@@ -257,13 +257,18 @@ footer {
 }
 
 #ps-message {
-    height: 150px;
+    height: auto;
     width: 100%;
     background-color: rgba(240, 54, 32, .7);
     display: block;
     margin-right: 20px;
     margin-top: 20px;
     border-top: 2px solid yellow;
+    padding: 20px;
+}
+
+#ps-message p {
+    font-family: Quicksand, sans-serif;
 }
 
 /*-------------------------------------------Page 2/3-section 2-carousel*/
