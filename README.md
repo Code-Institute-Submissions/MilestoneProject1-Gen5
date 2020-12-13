@@ -311,6 +311,32 @@ All images were located via bing images, searched under "free to share and use" 
 
 * Gallery image of the [Xbox](https://solaris525.files.wordpress.com/2012/05/xbox.jpg)
 
+* Carousel image of an [Xbox controller](https://1.bp.blogspot.com/-yVlr_T2PTSk/XntSfZmXaqI/AAAAAAAAD8s/ZoXU07aVsng2GyIpKsfcbZFW7tcOmf_uQCNcBGAsYHQ/s1600/XboxSeriesXController_HERO.jpg)
+
+* Carousel image of [Headphones](https://1.bp.blogspot.com/-k18GMWSaCJY/WREHvwXh-LI/AAAAAAAAAWw/25Lm8elEg5cj5oMQAyYlEGNFXaY1xa7sQCLcB/w1200-h630-p-k-no-nu/headset-scorpio-1494270699699_v2_900x506.png)
+
+* Carousel image of an [Xbox Kinect](https://www.lagzero.net/wp-content/uploads/2010/06/kinect-xbox.jpg)
+
+##### Game Images
+
+* Accordian image of [Puyo puyo Tetris](https://www.mamamo.it/wp-content/uploads/2017/05/puyo_puyo_tetris_2.jpg)
+
+* Accordian image of [Hogwarts Legacy](http://www.xboxygen.com/local/cache-vignettes/L790xH451/harry-potter-hogwarts-legacy-eee3d.jpg?1600288546)
+
+* Accordian image of [Suicide Squad](http://www.internerdz.com.br/wp-content/uploads/2020/08/Suicide-Squad-Kill-the-Justice-League_Reveal-Trailer_Image1_Squad-1674225f416ed9a26659.71128312-1024x436.png)
+
+* Accordian image of [Hitman 3](https://generacionxbox.com/wp-content/uploads/2020/06/hitman-3-xboxone.png)
+
+* Accordian image of [Spider Man Miles Morales](https://theworldwentaway.files.wordpress.com/2020/07/miles-morales-2.png?w=1024)
+
+* Accordian image of [Horizon Forbidden West](https://1.bp.blogspot.com/-8ryF6fFJm-E/XuKk8W45PoI/AAAAAAAAWBA/qYEqxJDIBUsWVW5_oRJ-20P7eKZtlk6mACLcBGAsYHQ/w1200-h630-p-k-no-nu/Horizon-Forbidden-West.png)
+
+* Accordian image of [Oddworld: Soulstorm](http://www.xboxygen.com/IMG/png/oddworld_soulstorm_rs.png)
+
+* Accordian image of [Cyberpunk 2077](https://images.wired.it/wp-content/uploads/2020/12/08120018/cyberpunk-2077_cover.jpeg)
+
+* Accordian image of [The Pathless](https://1.bp.blogspot.com/-KS4tJ47pDws/Xy1-xnBSd-I/AAAAAAAAIxo/V4f8fNUOb9M7ty5tbhZrCONzp3BiPpQGACNcBGAsYHQ/s640/Pathless.png)
+
 ##### Videos
 
 * PlayStation 5 [trailer](https://www.youtube.com/watch?v=ZmSNJEYtyds)
