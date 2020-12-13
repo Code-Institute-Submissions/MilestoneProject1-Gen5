@@ -414,6 +414,13 @@ footer {
 
 #signup-info {
     background-color: #B22F21;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: Quicksand, sans-serif;
+}
+
+#signup-info h2 {
+    font-family: Rokkitt, sans-serif;
 }
 
 .form-section {
