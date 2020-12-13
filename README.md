@@ -182,13 +182,26 @@ ___
   * After entering section dividers, the space would be present but no line was visible.
   * To solve this I added a border-top: 2px solid yellow, which showed the dividing line while staying in the width perameters I had already set.
   * Code from [W3Schools.com](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr)
+
+6.  Carousel unresponsive
+  * The carousel does not centralise or resize for smaller screens.
+  * To solve this I added width: 70%, margin-left: 0 auto, margin-right: 0 auto, allowing the carousel to be responsive and centralised. 
 #### Remaining Bugs
 
-1. Carousel unresponsive
-  * The carousel does not centralise or resize for smaller screens.
-
-2. Video link Layout
+1. Video link Layout
   * The youtube videos leave a large space underneith before the footer. This is particularly evident on larger screens.
+
+2. Table columns are uneven
+  * The table on the index page are uneven and dependent on the content added to them. 
+
+3. Accordian cards not level
+  * The cards in each accordian seem to be aligned by the bottom of the card, rather than the top.
+
+4. PS/Xbox hero image alignment
+  * The hero images of the console pages are not aligned vertically.
+
+5. Progress bar unresponsive
+  * The progress bar does not repond to input from the questionnaire, may require javascript.
 
 ### Manual Testing
 
@@ -266,14 +279,6 @@ ___
 * Width of carousel code taken from [stackoverflow.com](https://stackoverflow.com/questions/30538967/how-to-center-image-in-carousel/30539078)
 
 * Progress bar template code taken from [bootstrap.com](https://www.w3schools.com/bootstrap/bootstrap_progressbars.asp), heavily modified to suit needs, personalised css.
-
-
-
-
-
-
-
-
 
 #### Media
 ##### Images
