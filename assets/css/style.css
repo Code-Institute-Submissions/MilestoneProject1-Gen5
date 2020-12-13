@@ -325,15 +325,16 @@ footer {
 /*-------------------------------------------Page 2/3-section 3-accordion*/
 
 .accordion {
-    width: 90%;
+    width: 70%;
     margin-right: auto;
     margin-left: auto;
     background-color: #201F24;
 }
 
 .card-header {
-    border: 3px solid yellow;
+    border: 2px solid yellow;
     background-color: #B22F21;
+    padding: 0;
 }
 
 .card-header button {
@@ -406,8 +407,8 @@ footer {
     padding: 10px;
     background-color: rgba(240, 54, 32, .7);
     position: absolute;
-    width: 60%;
-    height: 60%;
+    width: 70%;
+    height: 70%;
 }
 
 /*-------------------------------------------Page 4-section 1-form*/
@@ -532,8 +533,6 @@ input[type=text], input[type=email] {
         display: none;
     }
 
-
-
     /*-------------------------------------------Page 1-section 2-table*/
 
     .table-div {
@@ -542,7 +541,7 @@ input[type=text], input[type=email] {
 
     #nav-menu a {
     padding: 10px 15px 10px 15px; 
-}
+    }
 
     /*-------------------------------------------Page 2/3-section 1-console info*/
     #gallery {
@@ -558,6 +557,7 @@ input[type=text], input[type=email] {
     height: 150px;
     width: 150px;
     }
+}
 
 @media screen and (max-width: 750px) {
 /*-------------------------------------------Page 1-header*/
@@ -619,11 +619,16 @@ input[type=text], input[type=email] {
         display: none;
     }
 
+/*-------------------------------------------Page 2/3-section 3-accordion */
+    .accordion {
+        width: 95%;
+    }
+
 /*-------------------------------------------Page 2/3-section 4-video*/
 
     .video-container iframe {
-        width: 80%;
-        height: 80%;
+        width: 95%;
+        height: 95%;
     }
 
 /*-------------------------------------------Page 4-section 1-video*/
