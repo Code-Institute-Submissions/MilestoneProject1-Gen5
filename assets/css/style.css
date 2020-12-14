@@ -517,12 +517,36 @@ input[type=text], input[type=email] {
 
 /*-------------------------------------------Page 5-section 1-complete submission */
 
+.complete-outer {
+    padding: 75px;
+}
+
 .complete-div {
     border: 2px solid yellow;
     border-radius: 20px;
     padding: 50px;
     max-width: 700px;
     margin: 0 auto;
+}
+
+.complete-div a {
+    text-decoration: none;
+}
+
+.complete-div button {
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #B22F21;
+    display: block;
+    color: white;
+    font-family: Quicksand, sans-serif;
+    font-weight: 600;
+}
+
+.complete-div button:hover {
+    background-color: white;
+    color: #B22F21;
 }
 
 /*-------------------------------------------media links
