@@ -539,13 +539,6 @@ input[type=text], input[type=email] {
 /*-------------------------------------------media links
 ------------------------------------------------------*/
 
-@media screen and (min-width: 950px) {
-/*-------------------------------------------Page 1-section 2-table*/
-    .table-message {
-        display: none;
-    }
-}
-
 @media screen and (max-width: 950px) {
 /*-------------------------------------------Page 1-header*/
     
@@ -556,17 +549,15 @@ input[type=text], input[type=email] {
 
     #nav-menu a {
     padding: 10px 15px 10px 15px; 
-    }
+    }   
 
-    /*-------------------------------------------Page 1-section 2-table*/
+/*-------------------------------------------Page 1-section 2-table*/
 
     .container-fluid {
-        display: none;
+        font-size: 16px;
     }
 
-   
-
-    /*-------------------------------------------Page 2/3-section 1-console info*/
+/*-------------------------------------------Page 2/3-section 1-console info*/
     #gallery {
     column-count: 2;
     }
@@ -623,6 +614,12 @@ input[type=text], input[type=email] {
 
     #hero-image-info {
         font-size: 30px;
+    }
+
+  /*-------------------------------------------Page 1-section 2-table*/
+
+    .container-fluid {
+        display: none;
     }
 
 /*-------------------------------------------Page 1-footer*/
