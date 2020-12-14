@@ -145,7 +145,6 @@ hr {
 th {
     color: yellow;
     border: 2px solid yellow;
-    width: 20px;
     font-size: 15px;
 }
 
@@ -158,6 +157,25 @@ td {
     background-color: #B22F21;
     color: white;
 }
+
+.container {
+    display: block;
+}
+
+.col-3 {
+    height: 100px;
+    border: 2px solid yellow;
+}
+
+.console-column {
+    border: 2px solid orange;
+}
+
+.col-9 {
+    height: 50px;
+    border: 2px solid blue;
+}
+
 
 /*-------------------------------------------Page 1-footer*/
 
@@ -563,11 +581,11 @@ input[type=text], input[type=email] {
 /*-------------------------------------------media links
 ------------------------------------------------------*/
 
-@media screen and (min-width: 750px) {
+/* @media screen and (min-width: 750px) {
     .table {
         display: none;
     }
-}
+} */
 
 @media screen and (max-width: 950px) {
 /*-------------------------------------------Page 1-header*/
