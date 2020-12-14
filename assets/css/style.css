@@ -539,10 +539,6 @@ input[type=text], input[type=email] {
 }
 
 .complete-div a {
-    text-decoration: none;
-}
-
-.complete-div button {
     width: 100%;
     border-radius: 20px;
     padding: 10px;
@@ -551,9 +547,11 @@ input[type=text], input[type=email] {
     color: white;
     font-family: Quicksand, sans-serif;
     font-weight: 600;
+    text-decoration: none;
+    text-align: center;
 }
 
-.complete-div button:hover {
+.complete-div a:hover {
     background-color: white;
     color: #B22F21;
 }
@@ -604,6 +602,14 @@ input[type=text], input[type=email] {
 
 @media screen and (max-width: 750px) {
 /*-------------------------------------------Page 1-header*/
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
     nav {
         display: block;
     }
