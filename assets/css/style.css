@@ -518,15 +518,24 @@ input[type=text], input[type=email] {
 /*-------------------------------------------Page 5-section 1-complete submission */
 
 .complete-outer {
-    padding: 75px;
+    padding-top: 75px;
 }
 
 .complete-div {
     border: 2px solid yellow;
     border-radius: 20px;
     padding: 50px;
-    max-width: 700px;
+    max-width: 800px;
     margin: 0 auto;
+    font-family: Quicksand, sans-serif;
+    font-size: 20px;
+}
+
+.complete-div h3 {
+    color: white;
+    font-family: Rokkitt, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .complete-div a {
@@ -681,5 +690,15 @@ input[type=text], input[type=email] {
 
     #comp-input {
         width: 100%;
+    }
+
+    /*-------------------------------------------Page 5-section 1-complete submission */
+
+    .complete-div {
+        font-size: 15px;
+    }
+
+    .complete-div h3 {
+    font-size: 25px;
     }
 }
