@@ -130,7 +130,7 @@ ___
 * Comparison table that is responsive and has a horizontal scrollbar when screen is too small.
 
 ##### To Do
-* Hover state over features column that describes each feature in simple terms. This will act as a gargon buster.
+* Pop up on features column that describes each feature in simple terms. This will act as a gargon buster. (requires javascript)
 
 #### PS5/Xbox Page
 ##### Active
@@ -200,7 +200,7 @@ ___
   * The hero images of the console pages are not aligned vertically.
 
 4. Progress bar unresponsive
-  * The progress bar does not repond to input from the questionnaire, may require javascript.
+  * The progress bar does not repond to input from the questionnaire, requires javascript.
 
 ### Manual Testing
 

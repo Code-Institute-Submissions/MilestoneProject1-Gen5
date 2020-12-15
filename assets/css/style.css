@@ -121,6 +121,19 @@ hr {
     font-family: Quicksand, sans-serif;
 }
 
+.container-small {
+    font-family: Quicksand, sans-serif;
+}
+
+.row-headings {
+    font-size: 150%;
+    font-family: Rokkitt, sans-serif;
+}
+
+.container-fluid div {
+    padding: 10px;
+}
+
 .feature-div {
     color: yellow;
     background-color: #B22F21;
