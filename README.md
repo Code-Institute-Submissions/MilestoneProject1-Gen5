@@ -11,9 +11,8 @@ Welcome to Gen5, an informative website to compare the latest generation of gami
 3. [UX](#ux)
 4. [Features](#feat)
 5. [Testing](#test)
-6. [Launch](#launch)
-7. [Deployment](#deploy)
-8. [Credits](#credit)
+6. [Deployment](#deploy)
+7. [Credits](#credit)
 
 ___
 
@@ -41,7 +40,7 @@ Technologies used to create the site:
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIovzYmYzE7QIVhOvtCh0Nrwz5EAAYASAAEgKhdvD_BwE)
   * The project used **Balsamiq** to create wireframes during the planning phase.
 * [Color Dropper](https://chrome.google.com/webstore/detail/color-dropper/cbagleaaaocejmdeichhdkmjebpljckh)
-  * Used in project to help select colors.
+  * The prject uses the **color dropper** (a Chrome add on) to help select colors.
 ___
 
 <a name="ux"></a>
@@ -87,7 +86,7 @@ New gamer
 
 1. As a new gamer, I want a clear comparison between the two consoles e.g. their price or additional features.
 2. As a new gamer, I want each feature to be explained so that I know why it is a pro/con.
-3. a new gamer, I want to know which games are available on each console right now. 
+3. As a new gamer, I want to know which games are available on each console right now. 
 
 Friends/family of new gamer
 
