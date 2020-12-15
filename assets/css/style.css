@@ -122,6 +122,7 @@ hr {
 }
 
 .container-small {
+    border: 1px solid yellow;
     font-family: Quicksand, sans-serif;
 }
 
@@ -644,6 +645,11 @@ input[type=text], input[type=email] {
         font-size: 30px;
     }
 
+    #cover-text {
+    padding: 10px;
+    }
+
+
   /*-------------------------------------------Page 1-section 2-table*/
 
     .container-large {
@@ -663,7 +669,7 @@ input[type=text], input[type=email] {
 
     #footer-links i {
         margin: 0px 5px 0px 5px;
-        padding: 3%; 
+        padding: 1%; 
     }
 
 /*-------------------------------------------Page 2/3-section 1-console info*/
