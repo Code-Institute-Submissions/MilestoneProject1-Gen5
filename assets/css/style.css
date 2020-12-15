@@ -141,6 +141,7 @@ hr {
     background-color: #B22F21;
     border: 1px solid yellow;
     font-weight: 600;
+    text-align: center;
 }
 
 .xbox-div {
@@ -157,6 +158,16 @@ hr {
 
 .col-12 {
     text-align: center;
+}
+
+span:hover:after {
+    content: "Affects the speed of the console ";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
 }
 
 /*-------------------------------------------Page 1-footer*/
