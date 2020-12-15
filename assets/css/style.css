@@ -160,8 +160,78 @@ hr {
     text-align: center;
 }
 
-span:hover:after {
+.cpu:hover:after {
     content: "Affects the speed of the console ";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.gpu:hover:after {
+    content: "GPU";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.subscription-service:hover:after {
+    content: "subscription";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.memory:hover:after {
+    content: "memory";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.memory-bandwidth:hover:after {
+    content: "memory bandwidth";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.optical-drive:hover:after {
+    content: "optical";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.reverse:hover:after {
+    content: "reverse";
+    display: inline-block;
+    background-color: yellow;
+    color: #B22F21;
+    padding: 0px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.price:hover:after {
+    content: "price";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
