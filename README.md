@@ -135,20 +135,17 @@ ___
 
 #### PS5/Xbox Page
 ##### Active
-* Carousel showcasing accessories of the PlayStation 5 / Xbox series X.
+* Responsive carousel showcasing accessories of the PlayStation 5 / Xbox series X with title, description, price and links.
 * Responsive accordion with three inner cards each.
 * Inner cards for console games, that have images, descriptions and price links. Also each card has a hover state shaddow.
 * Trailer video that links to youtube, responsive on smaller sizes.
 
 ##### To Do
 * Responsive hero image, past console gallery and intro message.
-* Responsive carousel with title, description and price.
 
 #### Sign Up Page
 ##### Active
 * Responsive form for newletter sign up and competition, vertical alignment on smaller screens.
-
-##### To Do
 * Progress bar indocating current popularity of consoles.
 ___
 
@@ -185,22 +182,25 @@ ___
 
 6.  Carousel unresponsive
   * The carousel does not centralise or resize for smaller screens.
-  * To solve this I added width: 70%, margin-left: 0 auto, margin-right: 0 auto, allowing the carousel to be responsive and centralised. 
+  * To solve this I added width: 70%, margin-left: 0 auto, margin-right: 0 auto, allowing the carousel to be responsive and centralised.
+
+7. Table columns are uneven
+  * The table on the index page are uneven and dependent on the content added to them.
+  * To solve this I replace the entire table with two replacements,each with a bootstrap template. One for larger screens and one for smaller screens.
+  * Code from [bootstrap.com](https://getbootstrap.com/docs/4.0/layout/grid/), container-large
+  * Code from [stackoverflow.com](https://stackoverflow.com/questions/16351404/bootstrap-combining-rows-rowspan), container-small
 #### Remaining Bugs
 
 1. Video link Layout
-  * The youtube videos leave a large space underneith before the footer. This is particularly evident on larger screens.
+  * The youtube videos leave a large space underneith before the footer. This is particularly evident on larger screens. 
 
-2. Table columns are uneven
-  * The table on the index page are uneven and dependent on the content added to them. 
-
-3. Accordian cards not level
+2. Accordian cards not level
   * The cards in each accordian seem to be aligned by the bottom of the card, rather than the top.
 
-4. PS/Xbox hero image alignment
+3. PS/Xbox hero image alignment
   * The hero images of the console pages are not aligned vertically.
 
-5. Progress bar unresponsive
+4. Progress bar unresponsive
   * The progress bar does not repond to input from the questionnaire, may require javascript.
 
 ### Manual Testing
@@ -210,11 +210,6 @@ Expected, testing, result, fix
 ### User Story Tests
 
 Story, how issue was addressed, sceenshot
-___
-
-<a name="launch"></a>
-### Launch
-
 ___
 
 <a name="deploy"></a>
@@ -280,6 +275,10 @@ ___
 
 * Progress bar template code taken from [bootstrap.com](https://www.w3schools.com/bootstrap/bootstrap_progressbars.asp), heavily modified to suit needs, personalised css.
 
+* New bootstrap grid template (for index table) taken from [bootstrap.com](https://getbootstrap.com/docs/4.0/layout/grid/), heavily modified for use, personal css
+
+* Bootstrap grid rowspan equivalent solution taken from [stackoverflow.com](https://stackoverflow.com/questions/16351404/bootstrap-combining-rows-rowspan), modified and personal css added
+
 #### Media
 ##### Images
 All images were located via bing images, searched under "free to share and use" licences.
@@ -342,6 +341,13 @@ All images were located via bing images, searched under "free to share and use" 
 
 * Accordian image of [The Pathless](https://1.bp.blogspot.com/-KS4tJ47pDws/Xy1-xnBSd-I/AAAAAAAAIxo/V4f8fNUOb9M7ty5tbhZrCONzp3BiPpQGACNcBGAsYHQ/s640/Pathless.png)
 
+* Accordian image of [Halo Guardians](https://theworldwentaway.files.wordpress.com/2015/11/halo5.jpg)
+
+* Accordian image of [Sea of Thieves](https://gamepedia.cursecdn.com/seaofthieves_gamepedia/thumb/b/b3/Ss1.jpg/1200px-Ss1.jpg)
+
+* Accordian image of [Sunset Overdrive](http://cdn4.dualshockers.com/wp-content/uploads/2014/10/sunset_overdrive_review_arsenal.jpg?eaa32f)
+
+* Accordian image of [Warhammer - Chaosbane](https://generacionxbox.com/wp-content/uploads/2019/04/warhammer-chaosbane-preview-header1-940x529.jpg)
 ##### Videos
 
 * PlayStation 5 [trailer](https://www.youtube.com/watch?v=ZmSNJEYtyds)
