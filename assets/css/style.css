@@ -478,6 +478,7 @@ input[type=text], input[type=email] {
 
 #reason {
     width: 100%;
+    min-height: 100px;
 }
 /*Credit: code taken from https://www.w3schools.com/css/css_form.asp, modified to suit needs, personalised styling*/
 .join-button {
@@ -499,6 +500,7 @@ input[type=text], input[type=email] {
 .progress-bar {
     background-color: transparent;
     align-items: center;
+    font-size: 20px;
 }
 
 .progress {
@@ -510,12 +512,10 @@ input[type=text], input[type=email] {
 #x-progress {
     background-color: white;
     color: rgb(15,15,15);
-    font-size: 20px;
 }
 
 #ps-progress {
     background-color: #B22F21;
-    font-size: 20px;
 }
 
 /*-------------------------------------------Page 5-section 1-complete submission */
@@ -709,6 +709,12 @@ input[type=text], input[type=email] {
 
     #comp-input {
         width: 100%;
+    }
+
+/*-------------------------------------------Page 4-section 2-progress bar*/
+
+    .progress-bar {
+        font-size: 14px;
     }
 
     /*-------------------------------------------Page 5-section 1-complete submission */
