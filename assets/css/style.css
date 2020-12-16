@@ -330,10 +330,9 @@ footer {
     border: 5px solid #B22F21;
     display: inline;
 }
-
+/*
 .prac {
-    border: 2px solid blue;
-    height: 250px;
+    height: 225px;
     width: 100%;
     margin: 0 auto;
     text-align: center;
@@ -341,29 +340,28 @@ footer {
 
 .container {
     display: inline-block;
-  position: relative;
-  width: 50%;
-  max-width: 200px;
-  margin: 0 auto;
+    position: relative;
+    width: 50%;
+    max-width: 190px;
+    margin: 1% 2% 1% 2%;
 }
 
 .p-image {
   display: block;
-  width: 200px;
-  height: 200px;
+  width: 190px;
+  height: 190px;
   object-fit: cover;
-  border: 2px solid #B22F21;
+  border: 5px solid #B22F21;
 }
 
 .overlay {
   position: absolute; 
   bottom: 0; 
-  background: rgb(0, 0, 0); /* Black see-through */
+  background: rgb(0, 0, 0);
   color: #f1f1f1; 
   width: 100%;
   transition: .5s ease;
   opacity:0;
-  color: white;
   font-size: 20px;
   padding: 20px;
   text-align: center;
@@ -372,7 +370,7 @@ footer {
 .container:hover .overlay {
   opacity: 1;
 }
-
+*/
 #ps-message {
     height: auto;
     width: 100%;
