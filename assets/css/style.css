@@ -306,38 +306,28 @@ footer {
 
 /*-------------------------------------------Page 2/3-section 1-basic info*/
 
-#gallery {
-/* Credit: code taken from https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/91bcf3d697f44e988fad959414892426/?activate_block_id=block-v1%3ACodeInstitute%2BCF101%2B2017_T1%2Btype%40sequential%2Bblock%4091bcf3d697f44e988fad959414892426 , modified layout and css*/
-    column-count: 2;
-    column-gap: 1px;
-    width: 100%;
-    height: auto;
-}
-
 #console-image-set {
     text-align: center;
+    background-color: #B22F21;
+    border-bottom: 2px solid yellow;
 }
 
 #past-image-set {
     text-align: center;
 }
 
-#gallery .current-image {
-    height: 400px;
-    width: 400px;
-    margin: 3%;
-    object-fit: cover;
-    border: 5px solid #B22F21;
-    border-radius: 10%;
+.current-image {
+    height: auto;
+    width: 100%;
+    max-width: 700px;
 }
 
-#gallery #past-image-set img {
-    height: 200px;
-    width: 200px;
-    margin: 3%;
+#past-image-set img {
+    height: 190px;
+    width: 190px;
+    margin: 1% 2% 1% 2%;
     object-fit: cover;
     border: 5px solid #B22F21;
-    border-radius: 10%;
     display: inline;
 }
 
@@ -347,7 +337,6 @@ footer {
     background-color: rgba(240, 54, 32, .7);
     display: block;
     margin-right: 20px;
-    margin-top: 20px;
     border-top: 2px solid yellow;
     padding: 20px;
 }
@@ -669,18 +658,12 @@ input[type=text], input[type=email] {
     }
 
 /*-------------------------------------------Page 2/3-section 1-console info*/
-    #gallery {
-    column-count: 2;
-    }
 
-    #gallery .current-image {
-    height: 300px;
-    width: 300px;
-    }
-
-    #gallery #past-image-set img {
-    height: 150px;
-    width: 150px;
+    #past-image-set img {
+        height: 150px;
+        width: 150px;
+        margin: 2%;
+        object-fit: cover;
     }
 }
 
@@ -755,13 +738,13 @@ input[type=text], input[type=email] {
     }
 
 /*-------------------------------------------Page 2/3-section 1-console info*/
-    #gallery {
-    column-count: 1;
-    }
 
-    #past-image-set {
-        display: none;
-    }
+    #past-image-set img {
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    object-fit: cover;
+}
 
 /*-------------------------------------------Page 2/3-section 3-accordion */
     .accordion {
