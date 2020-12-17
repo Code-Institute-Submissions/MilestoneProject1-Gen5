@@ -208,6 +208,35 @@ ___
 
 Expected, testing, result, fix
 
+### Validator Tests
+
+index.html
+  * HTML Validator - Document checking completed. No errors or warnings to show.
+  * Chrome Lighthouse - 99, 95, 93, 90.
+  * ![Lighthouse assessment](assets/lighthouse/lighthouse1.png)
+
+xbox.html
+  * HTML Validator - Document checking completed. No errors or warnings to show.
+  * Chrome Lighthouse - 96, 93, 93, 90. 
+  * ![Lighthouse assessment](assets/lighthouse/lighthouse2.png)
+
+ps5.html
+  * HTML Validator - Document checking completed. No errors or warnings to show.
+  * Chrome Lighthouse - 97, 93, 93, 90. 
+  * ![Lighthouse assessment](assets/lighthouse/lighthouse3.png)
+
+sign-up.html
+  * HTML Validator - Document checking completed. No errors or warnings to show.
+  * Chrome Lighthouse - 99, 97, 93, 100. 
+  * ![Lighthouse assessment](assets/lighthouse/lighthouse4.png)
+
+complete.html
+  * HTML Validator - Document checking completed. No errors or warnings to show.
+  * Chrome Lighthouse - 100, 100, 93, 100. 
+  * ![Lighthouse assessment](assets/lighthouse/lighthouse5.png)
+
+style.css
+
 ### User Story Tests
 
 Story, how issue was addressed, sceenshot
