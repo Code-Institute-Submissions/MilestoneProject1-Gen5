@@ -151,6 +151,8 @@ ___
 <a name="test"></a>
 ### Testing
 
+[Testing Page](#test-page) 
+
 ### Bugs Discovered
 
 #### Solved Bugs
