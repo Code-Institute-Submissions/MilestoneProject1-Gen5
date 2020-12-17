@@ -188,6 +188,11 @@ ___
   * To solve this I replace the entire table with two replacements,each with a bootstrap template. One for larger screens and one for smaller screens.
   * Code from [bootstrap.com](https://getbootstrap.com/docs/4.0/layout/grid/), container-large
   * Code from [stackoverflow.com](https://stackoverflow.com/questions/16351404/bootstrap-combining-rows-rowspan), container-small
+
+8. PS/Xbox hero image alignment
+  * The hero images of the console pages are not aligned aesthetically.
+  * To solve this I seperated the hero image and past images onto seperate levels and made each responsive to the full width of the page. 
+
 #### Remaining Bugs
 
 1. Video link Layout
@@ -196,10 +201,7 @@ ___
 2. Accordian cards not level
   * The cards in each accordian seem to be aligned by the bottom of the card, rather than the top.
 
-3. PS/Xbox hero image alignment
-  * The hero images of the console pages are not aligned vertically.
-
-4. Progress bar unresponsive
+3. Progress bar unresponsive
   * The progress bar does not repond to input from the questionnaire, requires javascript.
 
 ### Manual Testing
@@ -209,6 +211,37 @@ Expected, testing, result, fix
 ### User Story Tests
 
 Story, how issue was addressed, sceenshot
+
+Experienced with console gaming:
+
+1. As an experienced gamer, I want to know which console has the best internal specifications e.g. best frame rate, internal storage and reverse compatibility.
+
+
+2. As an experienced gamer, I want to sign up for a newsletter so that I am emailed updates about the latest releases and offers.
+
+
+3. As an experienced gamer, I want to know which game franchises are console specific in the new generation.
+
+New gamer
+
+1. As a new gamer, I want a clear comparison between the two consoles e.g. their price or additional features.
+
+
+2. As a new gamer, I want each feature to be explained so that I know why it is a pro/con.
+
+
+3. As a new gamer, I want to know which games are available on each console right now. 
+
+Friends/family of new gamer
+
+1. As a friend/family member, I want to know what accessories area available for each console and their prices.
+
+
+2. As a friend/family member, I want to know about the latest games that are due for pre-order, which would make good presents.
+
+
+3. As a friend/family member, I want to buy my (friend/family member) that latest console but I cannot remember the name of their current model. 
+
 ___
 
 <a name="deploy"></a>
