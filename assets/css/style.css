@@ -161,7 +161,7 @@ hr {
 }
 
 .cpu:hover:after {
-    content: "Affects the speed of the console ";
+    content: "Central Processing Unit, aids the general speed of the console, especially when completing multiple tasks";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -171,7 +171,7 @@ hr {
 }
 
 .gpu:hover:after {
-    content: "GPU";
+    content: "Graphics Processing Unit, aids the rendering of images/videos to create a smoother picture";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -181,7 +181,7 @@ hr {
 }
 
 .subscription-service:hover:after {
-    content: "subscription";
+    content: "Optional service that offers incentives such as free games or enhanced online options";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -191,7 +191,7 @@ hr {
 }
 
 .memory:hover:after {
-    content: "memory";
+    content: "Games require memory to function. The more memory, the more games can be installed at once";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -201,7 +201,7 @@ hr {
 }
 
 .memory-bandwidth:hover:after {
-    content: "memory bandwidth";
+    content: "Higher memory bandwidth can draw higher quality images,associated with GPU";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -211,7 +211,7 @@ hr {
 }
 
 .optical-drive:hover:after {
-    content: "optical";
+    content: "Disk reader that plays all disks, from standard DVDs to 4k BluRay";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -221,7 +221,7 @@ hr {
 }
 
 .reverse:hover:after {
-    content: "reverse";
+    content: "Games of previous consoles that can be played on the latest iteration";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
@@ -231,7 +231,7 @@ hr {
 }
 
 .price:hover:after {
-    content: "price";
+    content: "Cost of the base model, includes the console itself and one controller";
     display: inline-block;
     background-color: yellow;
     color: #B22F21;
