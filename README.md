@@ -151,7 +151,7 @@ ___
 <a name="test"></a>
 ### Testing
 
-For all testing, please follow the link below to a dedicated page. [Testing Page](testing.md) 
+For all testing, please follow the link to a dedicated page. [Testing Page](testing.md) 
 
 
 ___

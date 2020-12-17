@@ -87,8 +87,6 @@ Expected, testing, result, fix
 
 ### User Story Tests
 
-Story, how issue was addressed, sceenshot
-
 #### Experienced with console gaming:
 1. As an experienced gamer, I want to know which console has the best internal specifications e.g. best frame rate, internal storage and reverse compatibility.
   * To address this I created a features table that directly compares the specifications of each console.
