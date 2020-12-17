@@ -1,5 +1,3 @@
-hello testing
-
 ### Bugs Discovered
 
 #### Solved Bugs
@@ -59,64 +57,73 @@ Expected, testing, result, fix
 
 ### Validator Tests
 
-index.html
+#### index.html
   * W3C HTML Validator - Document checking completed. No errors or warnings to show.
   * Chrome Lighthouse - 99, 95, 93, 90.
   * ![Lighthouse assessment](assets/lighthouse/lighthouse1.png)
 
-xbox.html
+#### xbox.html
   * W3C HTML Validator - Document checking completed. No errors or warnings to show.
   * Chrome Lighthouse - 96, 93, 93, 90. 
   * ![Lighthouse assessment](assets/lighthouse/lighthouse2.png)
 
-ps5.html
+#### ps5.html
   * W3C HTML Validator - Document checking completed. No errors or warnings to show.
   * Chrome Lighthouse - 97, 93, 93, 90. 
   * ![Lighthouse assessment](assets/lighthouse/lighthouse3.png)
 
-sign-up.html
+#### sign-up.html
   * W3C HTML Validator - Document checking completed. No errors or warnings to show.
   * Chrome Lighthouse - 99, 97, 93, 100. 
   * ![Lighthouse assessment](assets/lighthouse/lighthouse4.png)
 
-complete.html
+#### complete.html
   * W3C HTML Validator - Document checking completed. No errors or warnings to show.
   * Chrome Lighthouse - 100, 100, 93, 100. 
   * ![Lighthouse assessment](assets/lighthouse/lighthouse5.png)
 
-style.css
+#### style.css
   * W3C CSS Validator - Congratulations! No error found.
 
 ### User Story Tests
 
 Story, how issue was addressed, sceenshot
 
-Experienced with console gaming:
-
+#### Experienced with console gaming:
 1. As an experienced gamer, I want to know which console has the best internal specifications e.g. best frame rate, internal storage and reverse compatibility.
-
+  * To address this I created a features table that directly compares the specifications of each console.
+  * ![User Story 1](assets/userstory/us1.png)
 
 2. As an experienced gamer, I want to sign up for a newsletter so that I am emailed updates about the latest releases and offers.
-
+  * To address this I created a sign up page with a form to take user details, including name and email.
+  * ![User Story 2](assets/userstory/us2.png)
 
 3. As an experienced gamer, I want to know which game franchises are console specific in the new generation.
+  * To address this I created a specific section in the games accordion to showcase console specific franchises, on both the xbox and ps page.
+  * ![User Story 3](assets/userstory/us3.png)
 
-New gamer
-
+#### New gamer
 1. As a new gamer, I want a clear comparison between the two consoles e.g. their price or additional features.
-
+  * To address this I added a price comparison to the console comparison table, as well as some other basic features.
+  * ![User Story 4](assets/userstory/us4.png)
 
 2. As a new gamer, I want each feature to be explained so that I know why it is a pro/con.
-
+  * To address this I added a tooltip to each feature on the comparison table, explaining the feature in simple terms.
+  * ![User Story 5](assets/userstory/us5.png)
 
 3. As a new gamer, I want to know which games are available on each console right now. 
+  * To address this I added a latest releases section to the games accordian, to show the most up to date, available games. I did this for both the xbox and ps pages.
+  * ![User Story 6](assets/userstory/us6.png)
 
-Friends/family of new gamer
-
+#### Friends/family of new gamer
 1. As a friend/family member, I want to know what accessories area available for each console and their prices.
-
+  * To address this I added an accessories carousel to the xbox and ps pages. Each included a price and link to selling website.
+  * ![User Story 7](assets/userstory/us7.png)
 
 2. As a friend/family member, I want to know about the latest games that are due for pre-order, which would make good presents.
-
-
+  * To address this I added a pre-order section to the games accordion, to showcase games coming out in the near future.
+  * ![User Story 8](assets/userstory/us8.png)
+  
 3. As a friend/family member, I want to buy my (friend/family member) that latest console but I cannot remember the name of their current model. 
+  * To address this I added images of the previous consoles in the series, as they may know an old console by appearence and not by name.
+  * ![User Story 9](assets/userstory/us9.png)
