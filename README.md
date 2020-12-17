@@ -151,7 +151,7 @@ ___
 <a name="test"></a>
 ### Testing
 
-[Testing Page](#test-page) 
+[Testing Page](testing.md) 
 
 ### Bugs Discovered
 
