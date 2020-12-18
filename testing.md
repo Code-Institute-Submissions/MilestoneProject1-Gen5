@@ -59,45 +59,45 @@ Expected, testing, result, fix
 * Gen5 logo
   * Expected: Clicking on the logo takes the user back to the home page.
   * Testing:
-      1. Go to "xbox", "PS5" or "sign-up" page
-      2. Try clicking on the Gen5 logo and verify that it returns you to the home page. 
+  1. Go to "xbox", "PS5" or "sign-up" page
+  2. Try clicking on the Gen5 logo and verify that it returns you to the home page. 
   * Result: successful on all pages
 
 * Navbar links
   * Expected: Clicking on each navbar link takes you to the associated page.
   * Testing:
-      1. Go to the navbar of the "index", "xbox", "PS5" or "sign-up" page
-      2. Try clicking on the other page links in the navbar and verify that it takes you to the appropriate page.
+  1. Go to the navbar of the "index", "xbox", "PS5" or "sign-up" page
+  2. Try clicking on the other page links in the navbar and verify that it takes you to the appropriate page.
   * Result: successful for all links on all pages.
 
 * Footer competition link
   * Expected: Clicking on the present icon takes you to the sign up page wit the competition information.
   * Testing:
-      1. Go to the footer of any page.
-      2. Try clicking on the present icon and verify that it takes you to the "sign-up" page.
+  1. Go to the footer of any page.
+  2. Try clicking on the present icon and verify that it takes you to the "sign-up" page.
   * Result: successful on all pages.
 
 * Sign up button
   * Expected: Clicking the button takes you to a "sign up complete" page, assuming all required information is entered.
   * Testing:
-      1. Go to "sign-up" page.
-      2. Try submitting the form once all information is added and verify that a new page ("complete" page) appears.
+  1. Go to "sign-up" page.
+  2. Try submitting the form once all information is added and verify that a new page ("complete" page) appears.
   * Result: successful tramsfer to complete page.
 
 * Home button
   * Expected: After filling out the form, clicking on the home button takes you back to the index.html page. 
   * Testing:
-      1. Go to "complete" page.
-      2. Try clicking the home button and verify that it returns you to the home page.
+  1. Go to "complete" page.
+  2. Try clicking the home button and verify that it returns you to the home page.
   * Result: successful transfer to site home page.
 
 2. External links (all external links take you to a seperate tab)
 * Footer social links
   * Expected: Each link takes you to the associated homepage of the social media site.
   * Testing:
-      1. Go to the footer of any main page.
-      2. Try clicking on each social link and verify that it takes you to the homepage of the relevant site.
-      3. Try clicking on each social link and verify that it opens a new tab.
+  1. Go to the footer of any main page.
+  2. Try clicking on each social link and verify that it takes you to the homepage of the relevant site.
+  3. Try clicking on each social link and verify that it opens a new tab.
   * Result: partially successful transfer to each homepage. NOTE: if already logged into one of the social media sites, the link will take you to your own page rather than the home page.
 
 * Carousel
