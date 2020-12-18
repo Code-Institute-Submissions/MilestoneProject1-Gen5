@@ -55,6 +55,44 @@
 
 Expected, testing, result, fix
 
+1. Internal links
+* Gen5 logo 
+* Navbar links
+* Footer conpetition link
+* Sign up button
+* Home button
+
+2. External links
+* Footer social links
+* Carousel (xbox.html)
+* Carousel (ps5.html)
+* Youtube video (xbox.html)
+* Youtube video (ps5.html)
+
+3. Navbar active state
+
+4. Tooltip hover states
+
+5. Carousel navigation
+* xbox.html
+* ps5.html
+
+6. Accordian segment buttons
+* xbox.html
+* ps5.html
+
+7. Game hover shaddow
+* xbox.html
+* ps5.html
+
+8. Console trailer
+* xbox.html
+* ps5.html
+
+9. Form requirements
+
+10. Media Queries
+
 ### Validator Tests
 
 #### index.html
