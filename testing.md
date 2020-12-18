@@ -65,92 +65,110 @@ Expected, testing, result, fix
 
 * Navbar links
   * Expected: Clicking on each navbar link takes you to the associated page.
+  * Testing:
+    1. Go to the navbar of the "index", "xbox", "PS5" or "sign-up" page
+    2. Try clicking on the other page links in the navbar and verify that it takes you to the appropriate page.
   * Result: successful for all links on all pages.
 
 * Footer competition link
   * Expected: Clicking on the present icon takes you to the sign up page wit the competition information.
+  * Testing:
+    1. Go to the footer of any page.
+    2. Try clicking on the present icon and verify that it takes you to the "sign-up" page.
   * Result: successful on all pages.
 
 * Sign up button
   * Expected: Clicking the button takes you to a "sign up complete" page, assuming all required information is entered.
+  * Testing:
+    1. Go to "sign-up" page.
+    2. Try submitting the form once all information is added and verify that a new page ("complete" page) appears.
   * Result: successful tramsfer to complete page.
 
 * Home button
   * Expected: After filling out the form, clicking on the home button takes you back to the index.html page. 
+  * Testing:
+    1. Go to "complete" page.
+    2. Try clicking the home button and verify that it returns you to the home page.
   * Result: successful transfer to site home page.
 
 2. External links (all external links take you to a seperate tab)
 * Footer social links
   * Expected: Each link takes you to the associated homepage of the social media site.
+  * Testing:
+    1. Go to the footer of any main page.
+    2. Try clicking on each social link and verify that it takes you to the homepage of the relevant site.
+    3. Try clicking on each social link and verify that it opens a new tab.
   * Result: partially successful transfer to each homepage. NOTE: if already logged into one of the social media sites, the link will take you to your own page rather than the home page.
 
 * Carousel (xbox.html)
   * Expected: Each description link will take you to an associated page for the accessory.
+  * Testing:
+    1. Go to "xbox" or "PS5" page.
+    2. Try clicking on each link in the description of the accessory and verify that it takes you to the appropriate site.
+    3. Try clicking on each link and verify that it opens a new tab.
   * Result: successful transfer to associated pages.
-
-* Carousel (ps5.html)
-  * Expected: Each description link will take you to an associated page for the accessory.
-  * Result: successful transfer to associated pages.
-
-* Youtube video (xbox.html)
-  * Expected: Clicking on the youtube link in the bottom left corner of the video will take you to the specific youtube webpage.
-  * Result: successful transfer to youtube page.
-
-* Youtube video (ps5.html)
-  * Expected: Clicking on the youtube link in the bottom left corner of the video will take you to the specific youtube webpage.
-  * Result: successful transfer to youtube page.
 
 3. Navbar active state
   * Expected: When located on a page, the navbar icon will be underlined.
+  * Testing:
+    1. Go to the navbar of any page.
+    2. Try clicking on each page link and verify that the link becomes underlined.
   * Result: successful for all pages.
 
 4. Tooltip hover states
   * Expected: Tooltips next to each feature in the console comparison table will apear when hovering over the questionmark icon, showing an individual message.
+  * Testing:
+    1. Go to "index" page, console comparison table.
+    2. Try hovering the mouse pointer over the questionmark icon next to each feature and verify that a unique explaination message appears.
   * Result: successful for all tooltips. 
 
 5. Carousel navigation
-* xbox.html
   * Expected: Carousel arrow icons take you to the next slide or previous slide.
-  * Result: successful in both directions.
-
-* ps5.html
-  * Expected: Carousel arrow icons take you to the next slide or previous slide.
+  * Testing:
+    1. Go to "xbox" or "PS5" page, accessories carousel.
+    2. Try clicking on the arrows on the left and right of the carousel and verify that it moves to the next/previous slide. 
   * Result: successful in both directions.
 
 6. Accordian segment buttons
-* xbox.html
   * Expected: Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
-  * Result: successful for all accordian segments.
-
-* ps5.html
-  * Expected: Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
+  * Testing:
+    1. Go to "xbox" or "PS5" page, games accordion.
+    2. Try clicking on each section heading and verify that it opens that specific section of the accordion.
+    3. Try clicking on each section again and verify that it closes that specific section.
   * Result: successful for all accordian segments.
 
 7. Game hover shaddow
-* xbox.html
   * Expected: Hovering over each game card amplifies the shaddow cast around it.
+  * Testing:
+    1. Go to "xbox" or "PS5" page, games accordion.
+    2. Try hovering the mouse pointer over each game card and verify that the shaddow intensifies.
   * Result: successful for all cards in all segments.
-
-* ps5.html
-  * Expected: Hovering over each game card amplifies the shaddow cast around it.
-  * Result: successful for all cards in all segments. 
 
 8. Console trailer
 * xbox.html
   * Expected: Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
-  * Result: successful play and pause.
-
-* ps5.html
-  * Expected: Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
+  * Testing:
+    1. Go to "xbox" or "PS5" page, console trailer.
+    2. Try clicking on the video and verify that the video begins to play.
+    3. Try clicking on the video again and verify that the video pauses.
   * Result: successful play and pause.
 
 9. Form requirements
 * Expected: All sections of the form are required for submission to occur. If information is not present, a reminder will appear when attempting to submit.
+* Testing:
+    1. Go to "sign-up" page.
+    2. Try submitting a form with empty fields and verify that a "required field" error message appears.
+    3. Try submitting an invalid email address and verify that an "incorrect email" error message appears.
+    4. Try submitting a completed form and verify that the "complete" page appears.
 * Result: successful reminder for each part of missing information.
 
 10. Media Queries
 * Expected: All pages alter their content size to fit the screen or alter the layout to better portray the information. 
-* Result: Successful for all pages.
+* Testing:
+    1. Go to any page
+    2. Right click and select "inspect" to provide a way to alter the screen size.
+    3. Try changing the size of the page and verify that the size/layout of the content alters to fit the screen.
+* Result: Successful for all pages, tested from 320px to 1359px.  
 
 ### Validator Tests
 
