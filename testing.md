@@ -57,96 +57,99 @@ Expected, testing, result, fix
 
 1. Internal links
 * Gen5 logo
-  * Clicking on the logo takes the user back to the home page.
+  * Expected: Clicking on the logo takes the user back to the home page.
+  * Testing:
+    1. Go to "xbox", "PS5" or "sign-up" page
+    2. Try clicking on the Gen5 logo and verify that it returns you to the home page. 
   * Result: successful on all pages
 
 * Navbar links
-  * Clicking on each navbar link takes you to the associated page.
+  * Expected: Clicking on each navbar link takes you to the associated page.
   * Result: successful for all links on all pages.
 
 * Footer competition link
-  * Clicking on the present icon takes you to the sign up page wit the competition information.
+  * Expected: Clicking on the present icon takes you to the sign up page wit the competition information.
   * Result: successful on all pages.
 
 * Sign up button
-  * Clicking the button takes you to a "sign up complete" page, assuming all required information is entered.
+  * Expected: Clicking the button takes you to a "sign up complete" page, assuming all required information is entered.
   * Result: successful tramsfer to complete page.
 
 * Home button
-  * After filling out the form, clicking on the home button takes you back to the index.html page. 
+  * Expected: After filling out the form, clicking on the home button takes you back to the index.html page. 
   * Result: successful transfer to site home page.
 
 2. External links (all external links take you to a seperate tab)
 * Footer social links
-  * Each link takes you to the associated homepage of the social media site.
+  * Expected: Each link takes you to the associated homepage of the social media site.
   * Result: partially successful transfer to each homepage. NOTE: if already logged into one of the social media sites, the link will take you to your own page rather than the home page.
 
 * Carousel (xbox.html)
-  * Each description link will take you to an associated page for the accessory.
+  * Expected: Each description link will take you to an associated page for the accessory.
   * Result: successful transfer to associated pages.
 
 * Carousel (ps5.html)
-  * Each description link will take you to an associated page for the accessory.
+  * Expected: Each description link will take you to an associated page for the accessory.
   * Result: successful transfer to associated pages.
 
 * Youtube video (xbox.html)
-  * Clicking on the youtube link in the bottom left corner of the video will take you to the specific youtube webpage.
+  * Expected: Clicking on the youtube link in the bottom left corner of the video will take you to the specific youtube webpage.
   * Result: successful transfer to youtube page.
 
 * Youtube video (ps5.html)
-  * Clicking on the youtube link in the bottom left corner of the video will take you to the specific youtube webpage.
+  * Expected: Clicking on the youtube link in the bottom left corner of the video will take you to the specific youtube webpage.
   * Result: successful transfer to youtube page.
 
 3. Navbar active state
-  * When located on a page, the navbar icon will be underlined.
+  * Expected: When located on a page, the navbar icon will be underlined.
   * Result: successful for all pages.
 
 4. Tooltip hover states
-  * Tooltips next to each feature in the console comparison table will apear when hovering over the questionmark icon, showing an individual message.
+  * Expected: Tooltips next to each feature in the console comparison table will apear when hovering over the questionmark icon, showing an individual message.
   * Result: successful for all tooltips. 
 
 5. Carousel navigation
 * xbox.html
-  * Carousel arrow icons take you to the next slide or previous slide.
+  * Expected: Carousel arrow icons take you to the next slide or previous slide.
   * Result: successful in both directions.
 
 * ps5.html
-  * Carousel arrow icons take you to the next slide or previous slide.
+  * Expected: Carousel arrow icons take you to the next slide or previous slide.
   * Result: successful in both directions.
 
 6. Accordian segment buttons
 * xbox.html
-  * Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
+  * Expected: Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
   * Result: successful for all accordian segments.
 
 * ps5.html
-  * Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
+  * Expected: Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
   * Result: successful for all accordian segments.
 
 7. Game hover shaddow
 * xbox.html
-  * Hovering over each game card amplifies the shaddow cast around it.
+  * Expected: Hovering over each game card amplifies the shaddow cast around it.
   * Result: successful for all cards in all segments.
 
 * ps5.html
-  * Hovering over each game card amplifies the shaddow cast around it.
+  * Expected: Hovering over each game card amplifies the shaddow cast around it.
   * Result: successful for all cards in all segments. 
 
 8. Console trailer
 * xbox.html
-  * Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
+  * Expected: Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
   * Result: successful play and pause.
 
 * ps5.html
-  * Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
+  * Expected: Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
   * Result: successful play and pause.
 
 9. Form requirements
-* All sections of the form are required for submission to occur. If information is not present, a reminder will appear when attempting to submit.
+* Expected: All sections of the form are required for submission to occur. If information is not present, a reminder will appear when attempting to submit.
 * Result: successful reminder for each part of missing information.
 
 10. Media Queries
-* All pages alter their content size to fit the screen or alter the layout to better portray the information. 
+* Expected: All pages alter their content size to fit the screen or alter the layout to better portray the information. 
 * Result: Successful for all pages.
 
 ### Validator Tests
