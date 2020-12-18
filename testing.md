@@ -100,12 +100,12 @@ Expected, testing, result, fix
       3. Try clicking on each social link and verify that it opens a new tab.
   * Result: partially successful transfer to each homepage. NOTE: if already logged into one of the social media sites, the link will take you to your own page rather than the home page.
 
-* Carousel (xbox.html)
+* Carousel
   * Expected: Each description link will take you to an associated page for the accessory.
   * Testing:
-      1. Go to "xbox" or "PS5" page.
-      2. Try clicking on each link in the description of the accessory and verify that it takes you to the appropriate site.
-      3. Try clicking on each link and verify that it opens a new tab.
+  1. Go to "xbox" or "PS5" page.
+  2. Try clicking on each link in the description of the accessory and verify that it takes you to the appropriate site.
+  3. Try clicking on each link and verify that it opens a new tab.
   * Result: successful transfer to associated pages.
 
 3. Navbar active state
