@@ -2,6 +2,7 @@
 
 Welcome to Gen5, an informative website to compare the latest generation of gaming consoles, the PlayStation 5 and the Xbox Series X. Made for my Code Institute Milestone Project 1.
 
+Follow the link to [Gen5](https://dominicspears.github.io/MilestoneProject1-Gen5/)
 ![Image of PS5 and Xbox Series X](assets/images/combo.jpg)
 
 ### Contents
