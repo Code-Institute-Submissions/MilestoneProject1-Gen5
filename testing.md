@@ -53,121 +53,87 @@
 
 ### Manual Testing
 
-Expected, testing, result, fix
+action, expected behaviour, result
 
-1. Internal links
-* Gen5 logo
-  * Expected: Clicking on the logo takes the user back to the home page.
-  * Testing:
-  1. Go to "xbox", "PS5" or "sign-up" page
-  2. Try clicking on the Gen5 logo and verify that it returns you to the home page. 
-  * Result: successful on all pages
+1. Internal link (Logo)
+  * Click the Gen5 logo 
+  * Returns the user to the homepage
+  * Result: pass
 
-* Navbar links
-  * Expected: Clicking on each navbar link takes you to the associated page.
-  * Testing:
-  1. Go to the navbar of the "index", "xbox", "PS5" or "sign-up" page
-  2. Try clicking on the other page links in the navbar and verify that it takes you to the appropriate page.
-  * Result: successful for all links on all pages.
+2. Internal link (Navbar links)
+  * Click each navbar link 
+  * Takes the user to each assosiated page
+  * Result: pass
 
-* Footer competition link
-  * Expected: Clicking on the present icon takes you to the sign up page wit the competition information.
-  * Testing:
-  1. Go to the footer of any page.
-  2. Try clicking on the present icon and verify that it takes you to the "sign-up" page.
-  * Result: successful on all pages.
+3. Internal link (footer link)
+  * Click the present icon 
+  * Takes the user to the sign-up page
+  * Result: pass
 
-* Sign up button
-  * Expected: Clicking the button takes you to a "sign up complete" page, assuming all required information is entered.
-  * Testing:
-  1. Go to "sign-up" page.
-  2. Try submitting the form once all information is added and verify that a new page ("complete" page) appears.
-  * Result: successful tramsfer to complete page.
+4. Internal link (Sign up button)
+  * Click the sign up button (Note:all required information must be entered)
+  * Takes the user to a "sign-up complete" page
+  * Result: pass
 
-* Home button
-  * Expected: After filling out the form, clicking on the home button takes you back to the index.html page. 
-  * Testing:
-  1. Go to "complete" page.
-  2. Try clicking the home button and verify that it returns you to the home page.
-  * Result: successful transfer to site home page.
+5. Internal link (Home button)
+  * Click the home button on the "sign-up complete" page
+  * Returns the user to the homepage
+  * Result: pass
 
-2. External links (all external links take you to a seperate tab)
-* Footer social links
-  * Expected: Each link takes you to the associated homepage of the social media site.
-  * Testing:
-  1. Go to the footer of any main page.
-  2. Try clicking on each social link and verify that it takes you to the homepage of the relevant site.
-  3. Try clicking on each social link and verify that it opens a new tab.
-  * Result: partially successful transfer to each homepage. NOTE: if already logged into one of the social media sites, the link will take you to your own page rather than the home page.
+6. External link (footer social links)
+  * Click the social links 
+  * Takes the user to the assosiated social media homepage on a seperate tab
+  * Result: pass (Note: if you are logged into the social media site, the link will take you to your page, not the homepage)
 
-* Carousel
-  * Expected: Each description link will take you to an associated page for the accessory.
-  * Testing:
-  1. Go to "xbox" or "PS5" page.
-  2. Try clicking on each link in the description of the accessory and verify that it takes you to the appropriate site.
-  3. Try clicking on each link and verify that it opens a new tab.
-  * Result: successful transfer to associated pages.
+7. External link (Carousel description links)
+  * Click the link in each description 
+  * Takes the user to the product page, on a seperrate tab
+  * Result: pass
 
-3. Navbar active state
-  * Expected: When located on a page, the navbar icon will be underlined.
-  * Testing:
-    1. Go to the navbar of any page.
-    2. Try clicking on each page link and verify that the link becomes underlined.
-  * Result: successful for all pages.
+8. Navbar link active state
+  * Click each navbar link 
+  * Each link will be underlined when the user is on the associated page
+  * Result: pass
 
-4. Tooltip hover states
-  * Expected: Tooltips next to each feature in the console comparison table will apear when hovering over the questionmark icon, showing an individual message.
-  * Testing:
-    1. Go to "index" page, console comparison table.
-    2. Try hovering the mouse pointer over the questionmark icon next to each feature and verify that a unique explaination message appears.
-  * Result: successful for all tooltips. 
+9. Navbar link hover state
+  * Hover over each navbar link with the mouse
+  * Each link will highlighted
+  * Result: pass
 
-5. Carousel navigation
-  * Expected: Carousel arrow icons take you to the next slide or previous slide.
-  * Testing:
-    1. Go to "xbox" or "PS5" page, accessories carousel.
-    2. Try clicking on the arrows on the left and right of the carousel and verify that it moves to the next/previous slide. 
-  * Result: successful in both directions.
+10. Tooltip hover states (console comparison table)
+  * Hover over each tooltip, questionmark icon in features column 
+  * Each tooltip will reveal a specific message for each feature
+  * Result: pass
 
-6. Accordian segment buttons
-  * Expected: Clicking on the segment headers opens a specific portion of the accordian. Clicking again collapses that portion.
-  * Testing:
-    1. Go to "xbox" or "PS5" page, games accordion.
-    2. Try clicking on each section heading and verify that it opens that specific section of the accordion.
-    3. Try clicking on each section again and verify that it closes that specific section.
-  * Result: successful for all accordian segments.
+11. Carousel navigation
+  * Click each arrow icon at the sides of the carousel
+  * The arrows will take you to the next/previous slide 
+  * Result: pass 
 
-7. Game hover shaddow
-  * Expected: Hovering over each game card amplifies the shaddow cast around it.
-  * Testing:
-    1. Go to "xbox" or "PS5" page, games accordion.
-    2. Try hovering the mouse pointer over each game card and verify that the shaddow intensifies.
-  * Result: successful for all cards in all segments.
+12. Accordion segment buttons
+  * Click each segment header 
+  * A specific portion of the accordion is revealed. Note: clicking again will hide the section
+  * Result: pass
 
-8. Console trailer
-  * Expected: Clicking on the central play button begins the video, clicking again pauses it. All other controls provided by youtube embed link.
-  * Testing:
-      1. Go to "xbox" or "PS5" page, console trailer.
-      2. Try clicking on the video and verify that the video begins to play.
-      3. Try clicking on the video again and verify that the video pauses.
-  * Result: successful play and pause.
+13. Game card hover state
+  * Hover over a game card 
+  * The shaddow of the card will intensify
+  * Result: pass
 
-9. Form requirements
-* Expected: All sections of the form are required for submission to occur. If information is not present, a reminder will appear when attempting to submit.
-* Testing:
-    1. Go to "sign-up" page.
-    2. Try submitting a form with empty fields and verify that a "required field" error message appears.
-    3. Try submitting an invalid email address and verify that an "incorrect email" error message appears.
-    4. Try submitting a completed form and verify that the "complete" page appears.
-* Result: successful reminder for each part of missing information.
+14. Console trailer
+  * Click the central play button 
+  * Click once to play the video, click again to pause the video
+  * Result: pass
 
-10. Media Queries
-* Expected: All pages alter their content size to fit the screen or alter the layout to better portray the information. 
-* Testing:
-    1. Go to any page
-    2. Right click and select "inspect" to provide a way to alter the screen size.
-    3. Try changing the size of the page and verify that the size/layout of the content alters to fit the screen.
-* Result: Successful for all pages, tested from 320px to 1359px.  
+15. Form requirements
+  * Leave any section of the form empty and try to submit
+  * The form will not submit and highlight the missing information
+  * Result: pass
+
+16. Media Queries
+  * Resize the site window 
+  * The layout/ content will alter to present effectively
+  * Result: pass, tested between 320px to 1359px.  
 
 ### Validator Tests
 
