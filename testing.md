@@ -53,8 +53,6 @@
 
 ### Manual Testing
 
-action, expected behaviour, result
-
 1. Internal link (Logo)
   * Click the Gen5 logo 
   * Returns the user to the homepage

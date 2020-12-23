@@ -48,12 +48,16 @@ ___
 <a name="ux"></a>
 ### UX
 
+### Strategy Plane
+
 #### Potential Users
 
 * Experienced with console gaming
 * New to console gaming 
   * New gamer
   * Friends/family of new gamer
+
+### Scope Plane
 
 #### Features specific for users
 
@@ -76,6 +80,8 @@ New to console gaming
 * Accessories
 * Previous consoles
 
+### Structure Plane
+
 #### User stories
 
 Experienced with console gaming:
@@ -96,6 +102,8 @@ Friends/family of new gamer
 2. As a friend/family member, I want to know about the latest games that are due for pre-order, which would make good presents.
 3. As a friend/family member, I want to buy my (friend/family member) that latest console but I cannot remember the name of their current model. 
 
+### Skeleton Plane
+
 #### Wireframes
 
 [Index Page Wireframe](assets/wireframes/MP1-index-med.png)
@@ -103,6 +111,12 @@ Friends/family of new gamer
 [Console Pages Wireframe](assets/wireframes/MP1-console-med.png)
 
 [Sign Up Page Wireframe](assets/wireframes/MP1-newsletter-med.png)
+
+### Surface Plane
+* Dark background to minimize eye strain, meants that fonts must be bright
+* Decorative colors (orange and yellow) must remain neutral between the two console brands, therefore no green (xbox) or blue (playstation)
+* Typography - Rokkit to be used for headings/important info, Quicksand to be used for majority
+
 ___
 
 <a name="feat"></a>
@@ -129,37 +143,46 @@ ___
 ##### Active
 * Responsive hero image and introduction message.
 * Info message that only appears on smaller screens, describing the responsive solution of the console comparison table.
-* Comparison table that is responsive and has a horizontal scrollbar when screen is too small.
-
-##### To Do
-* Pop up on features column that describes each feature in simple terms. This will act as a gargon buster. (requires javascript)
+* Comparison table that is responsive and alters its layout when the screen becomes smaller.
+* Tooltips in the features column that describes each feature in simple terms. This will act as a gargon buster.
 
 #### PS5/Xbox Page
 ##### Active
+* Responsive hero image, past console gallery and intro message.
 * Responsive carousel showcasing accessories of the PlayStation 5 / Xbox series X with title, description, price and links.
 * Responsive accordion with three inner cards each.
 * Inner cards for console games, that have images, descriptions and price links. Also each card has a hover state shaddow.
 * Trailer video that links to youtube, responsive on smaller sizes.
 
-##### To Do
-* Responsive hero image, past console gallery and intro message.
-
 #### Sign Up Page
 ##### Active
 * Responsive form for newletter sign up and competition, vertical alignment on smaller screens.
 * Progress bar indocating current popularity of consoles.
+
+#### Sign Up Complete Page
+##### Active
+* Responsive message that responds to screen size
+* Home button that returns the user to the index page
 ___
 
 <a name="test"></a>
 ### Testing
 
 For all testing, please follow the link to a dedicated page. [Testing Page](testing.md) 
-
-
 ___
 
 <a name="deploy"></a>
 ### Deployment
+
+To deploy to gihub pages
+1. Login to github
+2. Select DominicSpears/MilestoneProject1-Gen5
+3. Select the settings tab
+4. Scroll down to gihub pages section
+5. Under source, select Master branch
+6. The website is now deployed
+7. Scroll back to github pages section to find deployed website link
+
 
 ___
 
@@ -312,4 +335,3 @@ General reference / tutorial assisstance. Login required.
 * Inspired by [W3Schools.com](https://www.w3schools.com/html/html_intro.asp)
 General reference / tutorial assistance.
 ___
-
