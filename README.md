@@ -174,7 +174,8 @@ ___
 <a name="deploy"></a>
 ### Deployment
 
-To deploy to gihub pages
+#### To deploy to gihub pages:
+
 1. Login to github
 2. Select DominicSpears/MilestoneProject1-Gen5
 3. Select the settings tab
@@ -183,7 +184,23 @@ To deploy to gihub pages
 6. The website is now deployed
 7. Scroll back to github pages section to find deployed website link
 
+#### To run this project locally:
+You will need a github account and to use the chrome browser
 
+1. Install the Github browser extensions for chrome, restart after installation
+2. Login to gihub
+3. Navigate to the project repository
+4. Click on the "Gitpod" button, located in the top right of the page menu
+5. This creates a new workspace for local workspace
+
+#### To clone this project (work within a local IDE)
+
+1. Go to the project github repository
+2. On the project page, click on the "code" dropdown menu icon
+3. Copy the clone url by clicking the clipboard icon on the right side
+4. Open a new terminal of your local IDE
+5. Type git clone then paste the copied url
+6. Press enter, the local clone is created
 ___
 
 <a name="credit"></a>
