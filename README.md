@@ -4,7 +4,7 @@ Welcome to Gen5, an informative website to compare the latest generation of gami
 
 Follow the link to [Gen5](https://dominicspears.github.io/MilestoneProject1-Gen5/)
 
-![Image of PS5 and Xbox Series X](assets/images/combo.jpg)
+![Image of PS5 and Xbox Series X](assets/images/air-layout.png)
 
 ### Contents
 
@@ -113,7 +113,7 @@ Friends/family of new gamer
 [Sign Up Page Wireframe](assets/wireframes/MP1-newsletter-med.png)
 
 ### Surface Plane
-* Dark background to minimize eye strain, meants that fonts must be bright
+* Dark background to minimize eye strain, means that fonts must be bright
 * Decorative colors (orange and yellow) must remain neutral between the two console brands, therefore no green (xbox) or blue (playstation)
 * Typography - Rokkit to be used for headings/important info, Quicksand to be used for majority
 
