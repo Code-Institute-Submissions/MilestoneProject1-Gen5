@@ -98,11 +98,11 @@ Friends/family of new gamer
 
 #### Wireframes
 
-[Index Page Wireframe](assets/wireframes/MP1-index.png)
+[Index Page Wireframe](assets/wireframes/MP1-index-med.png)
 
 [Console Pages Wireframe](assets/wireframes/MP1-console-med.png)
 
-[Sign Up Page Wireframe](assets/wireframes/MP1-newsletter.png)
+[Sign Up Page Wireframe](assets/wireframes/MP1-newsletter-med.png)
 ___
 
 <a name="feat"></a>
