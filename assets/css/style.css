@@ -300,7 +300,7 @@ footer {
     border-radius: 50%;
 }
 
-/*-------------------------------------------Page 2/3-section 1-basic info*/
+/*-------------------------------------------Page 2/3-section 1-console info*/
 
 #console-image-set {
     text-align: center;
@@ -328,47 +328,7 @@ footer {
     border: 2px solid yellow;
     display: inline;
 }
-/*
-.prac {
-    height: 225px;
-    width: 100%;
-    margin: 0 auto;
-    text-align: center;
-}
 
-.container {
-    display: inline-block;
-    position: relative;
-    width: 50%;
-    max-width: 190px;
-    margin: 1% 2% 1% 2%;
-}
-
-.p-image {
-  display: block;
-  width: 190px;
-  height: 190px;
-  object-fit: cover;
-  border: 5px solid #B22F21;
-}
-
-.overlay {
-  position: absolute; 
-  bottom: 0; 
-  background: rgb(0, 0, 0);
-  color: #f1f1f1; 
-  width: 100%;
-  transition: .5s ease;
-  opacity:0;
-  font-size: 20px;
-  padding: 20px;
-  text-align: center;
-}
-
-.container:hover .overlay {
-  opacity: 1;
-}
-*/
 #ps-message {
     height: auto;
     width: 100%;
@@ -501,7 +461,7 @@ footer {
   padding: 3px 16px;
 }
 
-/*-------------------------------------------Page 2/3-section 4-video*/
+/*-------------------------------------------Page 2/3-section 4-console trailer*/
 
 /*Credit: Code taken from https://www.youtube.com/watch?v=9YffrCViTVk, description. Needs tutor guidance to fix bug*/
 .video-container {

@@ -207,7 +207,7 @@ ___
 ### Credits
 
 #### Code
-* Universal selector code taken from code institute [Love Running - mini project]() 
+* Universal selector code taken from code institute [Love Running - mini project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/aafe7d2ababd495ca8b4d05625c40489/?child=first) 
 
 * Extra universal selector (box-sizing) taken from [W3Schools.com](https://www.w3schools.com/css/css3_box-sizing.asp)
 
@@ -217,7 +217,7 @@ ___
 
 * Hero image (responsiveness only) code taken from [W3Schools.com](https://www.w3schools.com/css/css3_images.asp)
 
-* Footer template taken from [Love Running - mini project](), modified and styled to suit needs
+* Footer template taken from [Love Running - mini project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/e3e36d91d2da4dd29abad2a454bc3c44/?activate_block_id=block-v1%3ACodeInstitute%2BCF101%2B2017_T1%2Btype%40sequential%2Bblock%40e3e36d91d2da4dd29abad2a454bc3c44), modified and styled to suit needs
 
 * Font awesome latest version [upload guide](https://www.youtube.com/watch?v=wiw68Y-hPlA) 
 
@@ -225,7 +225,7 @@ ___
 
 * Code to center a table taken from [W3Schools.com](https://www.w3schools.com/howto/howto_css_table_center.asp), adapted for streamlining.
 
-* Header responsiveness code taken from [Love Running- Mini Project]()
+* Header responsiveness code taken from [Love Running- Mini Project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/389aad93ba4c450fa88ef0ce732a6a45/?activate_block_id=block-v1%3ACodeInstitute%2BCF101%2B2017_T1%2Btype%40sequential%2Bblock%40389aad93ba4c450fa88ef0ce732a6a45)
 
 * Code to hide divs at smaller screen sizes taken from [jquery](https://stackoverflow.com/questions/19705066/remove-a-div-if-screen-size-is-smaller-than-640px)
 
@@ -251,7 +251,7 @@ ___
 
 * Text area code taken from [W3Schools.com](https://www.w3schools.com/tags/att_textarea_required.asp), modified for needs.
 
-* Template code for form taken from Love Running - mini project, modified, personalised styling.
+* Template code for form taken from [Love Running - mini project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/801191a321d94e0fa469ff986d1ebc1b/?activate_block_id=block-v1%3ACodeInstitute%2BCF101%2B2017_T1%2Btype%40sequential%2Bblock%40801191a321d94e0fa469ff986d1ebc1b), modified, personalised styling.
 
 * Template code for accordion taken from [bootstrap.com](https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example), heavily modified for needs, personally styled.
 
